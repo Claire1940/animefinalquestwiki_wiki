@@ -10,14 +10,7 @@
       "twitterDescription": "Anime Final Quest Wiki with codes, weapon tier lists, gear picks, dungeon routes, bosses, runes, quests, controls, and beginner tips for Roblox players."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
