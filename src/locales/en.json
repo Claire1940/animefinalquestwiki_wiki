@@ -58,7 +58,7 @@
   "tools": {
     "title": "Anime Final Quest",
     "titleHighlight": "Tools & Guides",
-    "subtitle": "Jump straight to codes, tier lists, beginner steps, and the best weapons and gear for Anime Final Quest.",
+    "subtitle": "Jump straight to codes, tier lists, beginner steps, weapons, gear, builds, dungeons, quests, and official Anime Final Quest links.",
     "cards": [
       {
         "icon": "Gift",
@@ -79,6 +79,26 @@
         "icon": "Swords",
         "title": "Weapons & Gear",
         "description": "Compare weapons and gear by role and value"
+      },
+      {
+        "icon": "Gem",
+        "title": "Traits, Runes & Builds",
+        "description": "Trait rerolls, rune spending, and build priorities"
+      },
+      {
+        "icon": "Castle",
+        "title": "Dungeons & Bosses",
+        "description": "Dungeon progression, boss patterns, and raid tickets"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Quests & Drops",
+        "description": "Quest rewards, dungeon drops, and cosmetics"
+      },
+      {
+        "icon": "Link2",
+        "title": "Discord & Links",
+        "description": "Official Roblox, Discord, Trello, and YouTube sources"
       }
     ]
   },
@@ -552,6 +572,305 @@
           "damageStyle": "No damage; healing aura support",
           "utility": "Restores HP for the player and nearby allies",
           "progressionValue": "Useful when survival matters more than clear speed"
+        }
+      ]
+    },
+    "animeFinalQuestTraitsRunesBuilds": {
+      "title": "Anime Final Quest Traits, Runes, and Builds",
+      "displayType": "card-list",
+      "eyebrow": "Build Optimization",
+      "subtitle": "Plan your rerolls around damage, farming speed, and survivability instead of burning every resource the second it appears.",
+      "intro": "Anime Final Quest builds are shaped by a weapon, a gear slot, traits, accessories, runes, and an awakening. The strongest setups start with a reliable weapon and gear choice, then use traits and accessories to multiply skill damage, M1 damage, or farming value.",
+      "items": [
+        {
+          "icon": "Crosshair",
+          "title": "Accuracy III",
+          "category": "Trait",
+          "effect": "+15% Skill Damage",
+          "priority": "End-game keep",
+          "bestFor": "Nightmare clearing, boss damage, and skill-focused weapons.",
+          "keepOrReroll": "Keep once your weapon is strong enough to make skill damage matter."
+        },
+        {
+          "icon": "Coins",
+          "title": "Fortune",
+          "category": "Trait",
+          "effect": "+15% Gold and EXP",
+          "priority": "Progression keep",
+          "bestFor": "Early and mid-game farming while building gold, levels, spins, and account resources.",
+          "keepOrReroll": "Keep while farming, then swap later when raw damage becomes more valuable."
+        },
+        {
+          "icon": "Zap",
+          "title": "Power III",
+          "category": "Trait",
+          "effect": "+15% M1 Damage",
+          "priority": "Strong alternative",
+          "bestFor": "Basic attack builds, especially with Strongest's Cape and weapons with strong M1 scaling.",
+          "keepOrReroll": "Keep for M1-focused farming or when skill damage traits are unavailable."
+        },
+        {
+          "icon": "Target",
+          "title": "Critical Chance",
+          "category": "Trait",
+          "effect": "+5% Crit Chance",
+          "priority": "Combo trait",
+          "bestFor": "Boss-focused builds that also use Agris Sword for its +20% Crit Chance.",
+          "keepOrReroll": "Keep if your setup already uses Agris Sword, otherwise prioritize Accuracy or Power traits."
+        },
+        {
+          "icon": "Gem",
+          "title": "Rune Spending Rule",
+          "category": "Rune Economy",
+          "effect": "Runes support trait and build enhancement",
+          "priority": "Resource control",
+          "bestFor": "Players who already have a stable weapon, gear slot, and dungeon farming route.",
+          "keepOrReroll": "Spend runes after the core loadout is usable; chasing perfect traits too early slows progression."
+        },
+        {
+          "icon": "Wand2",
+          "title": "Skill Damage Build",
+          "category": "Build Template",
+          "effect": "King of Curses + Accuracy III + Divine Wheel + Agris Sword",
+          "priority": "Meta damage core",
+          "bestFor": "AOE dungeon clearing, boss phases, and high-difficulty runs.",
+          "keepOrReroll": "Use Time Stop for team play or Coyote Pistol for solo damage."
+        },
+        {
+          "icon": "Hand",
+          "title": "M1 Damage Build",
+          "category": "Build Template",
+          "effect": "Strongest's Cape + Power III + fast basic attacks",
+          "priority": "Reliable farming core",
+          "bestFor": "Consistent clearing when skills are on cooldown.",
+          "keepOrReroll": "Works well before you fully transition into Accuracy III skill-damage optimization."
+        },
+        {
+          "icon": "Layers",
+          "title": "Accessory Stack",
+          "category": "Accessory Core",
+          "effect": "Agris Sword, Strongest's Cape, Divine Wheel, Royal Cape, and Scarf add value together",
+          "priority": "Do not ignore",
+          "bestFor": "Stacking damage multipliers, critical chance, and health bonuses across the account.",
+          "keepOrReroll": "Craft and collect accessories instead of treating cosmetics as visual-only rewards."
+        }
+      ]
+    },
+    "animeFinalQuestDungeonsBossesRaids": {
+      "title": "Anime Final Quest Dungeons, Bosses, and Raids",
+      "displayType": "accordion",
+      "eyebrow": "Dungeon Progression",
+      "subtitle": "Use dungeons to earn drops, build better weapons and gear, and move into harder boss content with an actual plan.",
+      "intro": "The core loop is simple: clear anime dungeons, defeat waves and bosses, collect drops, craft cosmetics, gather runes, and upgrade the build for harder content. Stronger weapons, useful gear, and better trait choices turn slow clears into repeatable farming routes.",
+      "items": [
+        {
+          "icon": "RefreshCw",
+          "title": "Dungeon Core Loop",
+          "summary": "Clear waves, beat the boss, collect loot, and use the rewards to improve weapons, gear, traits, and cosmetics.",
+          "tags": ["Core Loop", "Farming"],
+          "details": [
+            "Fight through anime dungeons with M1 attacks, skills, gear, an ultimate skill, dash movement, and awakening tools.",
+            "Obtain weapons and gear from progression systems, then use drops and runes to strengthen the build.",
+            "Repeat easier dungeons until the loadout is ready for Hard and Nightmare difficulty."
+          ]
+        },
+        {
+          "icon": "Gauge",
+          "title": "Difficulty Path",
+          "summary": "Start on Normal, move into Hard after a stable weapon, and farm Nightmare when the build can clear safely.",
+          "tags": ["Normal", "Hard", "Nightmare"],
+          "details": [
+            "Normal is for learning enemy patterns and collecting early materials.",
+            "Hard is the bridge for stronger quest requirements, including Golem Boss clears.",
+            "Nightmare gives better farming value once the player has enough damage, survivability, and mobility."
+          ]
+        },
+        {
+          "icon": "Skull",
+          "title": "Boss Fight Pattern",
+          "summary": "Treat bosses as movement checks, not just damage sponges.",
+          "tags": ["Bosses", "Movement"],
+          "details": [
+            "Use a few M1 attacks, then dash sideways to avoid retaliation.",
+            "Save burst windows for Time Stop, Agris Awakening, or safe boss openings.",
+            "Prioritize staying alive over dumping every skill into a bad position."
+          ]
+        },
+        {
+          "icon": "Ticket",
+          "title": "Raid Ticket Use",
+          "summary": "Raid Tickets appear as progression rewards and code rewards, so they should be treated as limited resources.",
+          "tags": ["Raids", "Tickets"],
+          "details": [
+            "Build a stronger weapon and gear base before spending large ticket stacks.",
+            "Use tickets when the account can already clear harder content without wasting attempts.",
+            "Pair ticket spending with damage traits, useful gear, and accessories to get better value per run."
+          ]
+        },
+        {
+          "icon": "Users",
+          "title": "Team Clear Setup",
+          "summary": "Team runs benefit from control, healing, and cooldown windows.",
+          "tags": ["Co-op", "Team"],
+          "details": [
+            "Time Stop is the main team-control gear choice for holding waves in place.",
+            "Heal supports longer boss fights and harder dungeons.",
+            "Coyote Pistol is stronger for solo players who need fast direct damage."
+          ]
+        },
+        {
+          "icon": "ListChecks",
+          "title": "Fast Clear Checklist",
+          "summary": "Faster clearing comes from fewer wasted movements, better targeting, and a build that matches the dungeon.",
+          "tags": ["Speed", "Efficiency"],
+          "details": [
+            "Group enemies before using AOE skills.",
+            "Remove ranged enemies early so they do not chip away health during pulls.",
+            "Farm one map until enemy patterns become predictable, then increase difficulty."
+          ]
+        }
+      ]
+    },
+    "animeFinalQuestQuestsDropsCosmetics": {
+      "title": "Anime Final Quest Quests, Drops, and Cosmetics",
+      "displayType": "quest-cards",
+      "eyebrow": "Quests and Rewards",
+      "subtitle": "Track the useful quest goals, dungeon drops, and cosmetic stats that turn repeated clears into visible account progress.",
+      "intro": "Anime Final Quest connects progression to quests, dungeon drops, craftable cosmetics, and awakening rewards. The Fiji and Agris reward path is especially useful because it pushes players through dungeons, boss clears, Nightmare clears, crafting, and co-op completion goals.",
+      "items": [
+        {
+          "icon": "Sparkles",
+          "name": "Agris Unlock Start",
+          "type": "Awakening Quest",
+          "objective": "Talk to Fiji's Quest NPC in the HUB near the Agris statue and choose the unlock dialogue.",
+          "reward": "Opens the Agris questline and leads toward the Agris Ultimate Skill reward.",
+          "howToComplete": "Reach Level 5+, then begin the questline from the HUB."
+        },
+        {
+          "icon": "Castle",
+          "name": "Complete 20 Dungeons",
+          "type": "Dungeon Quest",
+          "objective": "Finish 20 dungeon clears.",
+          "reward": "4 Weapon Lucky Spins",
+          "howToComplete": "Use this as the main progress tracker while farming materials and learning enemy patterns."
+        },
+        {
+          "icon": "Swords",
+          "name": "Kill 500 Enemies",
+          "type": "Combat Quest",
+          "objective": "Defeat 500 enemies across dungeon runs.",
+          "reward": "10K Gold",
+          "howToComplete": "Farm repeatable dungeons with a weapon that clears groups quickly."
+        },
+        {
+          "icon": "Skull",
+          "name": "Kill Golem Boss in Hard Mode 3 Times",
+          "type": "Boss Quest",
+          "objective": "Defeat the Golem Boss three times on Hard difficulty.",
+          "reward": "3 Normal Gear Spins",
+          "howToComplete": "Bring a stable weapon, dodge boss attacks, and repeat Hard mode clears."
+        },
+        {
+          "icon": "Moon",
+          "name": "Complete 3 Nightmare Dungeons",
+          "type": "Difficulty Quest",
+          "objective": "Clear three dungeons on Nightmare difficulty.",
+          "reward": "3 Runes",
+          "howToComplete": "Attempt this after the build has stronger damage, a useful gear slot, and enough survivability."
+        },
+        {
+          "icon": "Users",
+          "name": "Play Summon Gate with 1 More Person",
+          "type": "Co-op Quest",
+          "objective": "Complete Summon Gate, the first dungeon, with one additional player.",
+          "reward": "2 Normal Weapon Spins",
+          "howToComplete": "Queue with a teammate and finish the dungeon together."
+        },
+        {
+          "icon": "Hammer",
+          "name": "Craft Strongest Cape",
+          "type": "Crafting Quest",
+          "objective": "Craft Strongest's Cape from dungeon materials.",
+          "reward": "2 Runes",
+          "howToComplete": "Use 1x Golem's Heart, 4x Monkey Hair, and 5x Goblin Armor Piece at the Crafting Station.",
+          "drops": [
+            "Golem's Heart: Summon Gate",
+            "Goblin Armor Piece: Summon Gate",
+            "Monkey Hair: Summon Station 1"
+          ]
+        },
+        {
+          "icon": "Star",
+          "name": "Complete Summon Station 1 with a Legendary Weapon",
+          "type": "Weapon Requirement Quest",
+          "objective": "Clear Summon Station 1, the second dungeon, with a Legendary weapon on Hard Mode.",
+          "reward": "3 Lucky Gear Spins",
+          "howToComplete": "Spin or upgrade into a Legendary weapon first, then run the second dungeon on Hard."
+        },
+        {
+          "icon": "Medal",
+          "name": "Complete Summon Station 2 with an Epic Weapon",
+          "type": "Weapon Requirement Quest",
+          "objective": "Clear Summon Station 2, the third dungeon, with an Epic weapon on Normal Mode.",
+          "reward": "6K Gold",
+          "howToComplete": "Equip an Epic weapon before starting the third dungeon on Normal."
+        },
+        {
+          "icon": "Crown",
+          "name": "Agris Sword Cosmetic",
+          "type": "Cosmetic Reward",
+          "objective": "Finish the Agris reward path to add the Agris Sword cosmetic to the build.",
+          "reward": "+75 Health and +20% Crit Chance",
+          "howToComplete": "Use it as a stat-boosting cosmetic; it changes weapon appearance while the equipped weapon keeps its own base skills."
+        }
+      ]
+    },
+    "animeFinalQuestDiscordOfficialLinks": {
+      "title": "Anime Final Quest Discord and Official Links",
+      "displayType": "link-hub",
+      "eyebrow": "Official Sources",
+      "subtitle": "Use the official Roblox, Discord, Trello, and developer video sources to track updates, mechanics, codes, and community announcements.",
+      "intro": "Anime Final Quest changes often, so the safest update path is to keep official links together. This hub points players to the live Roblox experience, the official Roblox community, the Discord server, the Trello information board, and the CELL GAMES YouTube channel.",
+      "items": [
+        {
+          "icon": "Gamepad2",
+          "label": "Play Anime Final Quest",
+          "type": "Roblox Experience",
+          "href": "https://www.roblox.com/games/100744519298647/Anime-Final-Quest",
+          "useCase": "Launch the game, check the current update title, read the official game description, and view controls.",
+          "bestFor": "Playing, update checks, and basic game information."
+        },
+        {
+          "icon": "Users",
+          "label": "Anime Final Quest Roblox Community",
+          "type": "Roblox Group",
+          "href": "https://www.roblox.com/communities/34258454/Anime-Final-Quest",
+          "useCase": "Join the official game group connected to codes and community updates.",
+          "bestFor": "Code requirements, group announcements, and official community identity."
+        },
+        {
+          "icon": "MessageCircle",
+          "label": "Anime Final Quest Discord",
+          "type": "Discord Server",
+          "href": "https://discord.com/invite/finalquest",
+          "useCase": "Follow developer posts, code channels, update notes, bug reports, and player discussion.",
+          "bestFor": "Fastest community updates and live announcements."
+        },
+        {
+          "icon": "SquareStack",
+          "label": "Anime Final Quest Information Trello",
+          "type": "Trello Board",
+          "href": "https://trello.com/b/sfBbkpv2/anime-final-quest-information",
+          "useCase": "Check organized game information such as mechanics, items, weapons, gear, traits, and update references.",
+          "bestFor": "Structured reference browsing."
+        },
+        {
+          "icon": "Video",
+          "label": "CELL GAMES YouTube",
+          "type": "Developer Video Source",
+          "href": "https://www.youtube.com/@CELLGAMESROBLOX",
+          "useCase": "Watch official sneak peeks and developer video posts for Anime Final Quest.",
+          "bestFor": "Visual update previews and developer-side media."
         }
       ]
     }

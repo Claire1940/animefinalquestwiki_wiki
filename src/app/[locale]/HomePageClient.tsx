@@ -4,9 +4,15 @@ import { useState, Suspense, lazy } from "react";
 import {
   ArrowRight,
   BookOpen,
+  Castle,
   Check,
+  ChevronDown,
   Copy,
+  ExternalLink,
+  Gem,
   Gift,
+  Link2,
+  ScrollText,
   Shield,
   Sparkles,
   Swords,
@@ -89,6 +95,7 @@ export default function HomePageClient({
   const siteUrl =
     process.env.NEXT_PUBLIC_SITE_URL || "https://www.animefinalquestwiki.wiki";
   const [copiedCode, setCopiedCode] = useState<string | null>(null);
+  const [expandedDungeon, setExpandedDungeon] = useState<number | null>(null);
   const mobileBannerAd = getPreferredMobileBannerSelection();
 
   const copyCode = (code: string) => {
@@ -184,8 +191,21 @@ export default function HomePageClient({
   const tierList = t.modules.animeFinalQuestTierList;
   const beginner = t.modules.animeFinalQuestBeginnerGuide;
   const weapons = t.modules.animeFinalQuestWeaponsAndGear;
+  const builds = t.modules.animeFinalQuestTraitsRunesBuilds;
+  const dungeons = t.modules.animeFinalQuestDungeonsBossesRaids;
+  const quests = t.modules.animeFinalQuestQuestsDropsCosmetics;
+  const officialLinks = t.modules.animeFinalQuestDiscordOfficialLinks;
 
-  const TOOL_SECTIONS = ["codes", "tier-list", "beginner-guide", "weapons-and-gear"];
+  const TOOL_SECTIONS = [
+    "codes",
+    "tier-list",
+    "beginner-guide",
+    "weapons-and-gear",
+    "traits-runes-builds",
+    "dungeons-bosses-raids",
+    "quests-drops-cosmetics",
+    "discord-official-links",
+  ];
 
   return (
     <div className="home-shell min-h-screen bg-background text-foreground">
@@ -267,7 +287,7 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Tools Grid - 4 Navigation Cards（视频区之后、Latest Updates 之前）*/}
+      {/* Tools Grid - 8 Navigation Cards（视频区之后、Latest Updates 之前）*/}
       <section className="bg-white/[0.02] px-4 py-14 md:py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="mb-8 text-center scroll-reveal md:mb-12">
@@ -616,6 +636,249 @@ export default function HomePageClient({
                   </div>
                 </dl>
               </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 5: Traits, Runes, and Builds */}
+      <section id="traits-runes-builds" className="scroll-mt-24 px-4 py-14 md:py-20">
+        <div className="container mx-auto max-w-5xl">
+          <ModuleHeader
+            icon={<Gem className="h-4 w-4 md:h-5 md:w-5" />}
+            eyebrow={builds.eyebrow}
+            title={builds.title}
+            subtitle={builds.subtitle}
+            intro={builds.intro}
+          />
+
+          <div className="scroll-reveal grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-5 lg:grid-cols-3">
+            {builds.items.map((item: any, index: number) => (
+              <div
+                key={index}
+                className="flex flex-col rounded-xl border border-border bg-white/5 p-5 transition-colors hover:border-[hsl(var(--nav-theme)/0.5)] md:p-6"
+              >
+                <div className="mb-3 flex items-start justify-between gap-3">
+                  <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-lg bg-[hsl(var(--nav-theme)/0.1)]">
+                    <DynamicIcon
+                      name={item.icon}
+                      className="h-5 w-5 text-[hsl(var(--nav-theme-light))]"
+                    />
+                  </div>
+                  <span className="rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-2.5 py-0.5 text-xs font-medium">
+                    {item.category}
+                  </span>
+                </div>
+
+                <h3 className="mb-2 text-lg font-bold">{item.title}</h3>
+
+                <p className="mb-3 rounded-md border border-[hsl(var(--nav-theme)/0.25)] bg-[hsl(var(--nav-theme)/0.06)] px-3 py-2 text-sm font-semibold text-[hsl(var(--nav-theme-light))]">
+                  {item.effect}
+                </p>
+
+                <div className="mb-3 flex items-center gap-2 text-xs">
+                  <span className="inline-flex items-center gap-1.5 rounded-md border border-border bg-background/50 px-2 py-1 font-medium">
+                    <Tag className="h-3 w-3 text-[hsl(var(--nav-theme-light))]" />
+                    {item.priority}
+                  </span>
+                </div>
+
+                <p className="mb-2 text-sm text-muted-foreground">{item.bestFor}</p>
+                <p className="mt-auto border-t border-border pt-3 text-xs text-muted-foreground/80">
+                  <span className="font-medium text-foreground">Keep or reroll: </span>
+                  {item.keepOrReroll}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* 广告位 7: 模块 5 之后 */}
+      <AdBanner
+        type="banner-468x60"
+        adKey={process.env.NEXT_PUBLIC_AD_BANNER_468X60}
+        className="hidden md:flex"
+      />
+
+      {/* Module 6: Dungeons, Bosses, and Raids (accordion) */}
+      <section id="dungeons-bosses-raids" className="scroll-mt-24 bg-white/[0.02] px-4 py-14 md:py-20">
+        <div className="container mx-auto max-w-5xl">
+          <ModuleHeader
+            icon={<Castle className="h-4 w-4 md:h-5 md:w-5" />}
+            eyebrow={dungeons.eyebrow}
+            title={dungeons.title}
+            subtitle={dungeons.subtitle}
+            intro={dungeons.intro}
+          />
+
+          <div className="scroll-reveal space-y-3 md:space-y-4">
+            {dungeons.items.map((item: any, index: number) => {
+              const isOpen = expandedDungeon === index;
+              return (
+                <div
+                  key={index}
+                  className="overflow-hidden rounded-xl border border-border bg-white/5 transition-colors hover:border-[hsl(var(--nav-theme)/0.4)]"
+                >
+                  <button
+                    type="button"
+                    onClick={() => setExpandedDungeon(isOpen ? null : index)}
+                    aria-expanded={isOpen}
+                    className="flex w-full items-center gap-4 p-4 text-left transition-colors hover:bg-white/5 md:p-5"
+                  >
+                    <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-lg bg-[hsl(var(--nav-theme)/0.1)]">
+                      <DynamicIcon
+                        name={item.icon}
+                        className="h-5 w-5 text-[hsl(var(--nav-theme-light))]"
+                      />
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <h3 className="text-base font-bold md:text-lg">{item.title}</h3>
+                      <p className="mt-0.5 text-sm text-muted-foreground">
+                        {item.summary}
+                      </p>
+                    </div>
+                    <ChevronDown
+                      className={`h-5 w-5 flex-shrink-0 text-muted-foreground transition-transform duration-300 ${
+                        isOpen ? "rotate-180 text-[hsl(var(--nav-theme-light))]" : ""
+                      }`}
+                    />
+                  </button>
+
+                  <div
+                    className={`overflow-hidden transition-all duration-300 ease-in-out ${
+                      isOpen ? "max-h-[40rem] opacity-100" : "max-h-0 opacity-0"
+                    }`}
+                  >
+                    <div className="border-t border-border px-4 py-4 md:px-5 md:py-5">
+                      <div className="mb-3 flex flex-wrap gap-2">
+                        {item.tags.map((tag: string, ti: number) => (
+                          <span
+                            key={ti}
+                            className="rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-2.5 py-0.5 text-xs font-medium"
+                          >
+                            {tag}
+                          </span>
+                        ))}
+                      </div>
+                      <ul className="space-y-2">
+                        {item.details.map((detail: string, di: number) => (
+                          <li key={di} className="flex items-start gap-2.5 text-sm text-muted-foreground">
+                            <Check className="mt-0.5 h-4 w-4 flex-shrink-0 text-[hsl(var(--nav-theme-light))]" />
+                            <span>{detail}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 7: Quests, Drops, and Cosmetics */}
+      <section id="quests-drops-cosmetics" className="scroll-mt-24 px-4 py-14 md:py-20">
+        <div className="container mx-auto max-w-5xl">
+          <ModuleHeader
+            icon={<ScrollText className="h-4 w-4 md:h-5 md:w-5" />}
+            eyebrow={quests.eyebrow}
+            title={quests.title}
+            subtitle={quests.subtitle}
+            intro={quests.intro}
+          />
+
+          <div className="scroll-reveal grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 md:gap-5 lg:grid-cols-4">
+            {quests.items.map((item: any, index: number) => (
+              <div
+                key={index}
+                className="flex flex-col rounded-xl border border-border bg-white/5 p-5 transition-colors hover:border-[hsl(var(--nav-theme)/0.5)]"
+              >
+                <div className="mb-3 flex items-center justify-between gap-2">
+                  <div className="flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-lg bg-[hsl(var(--nav-theme)/0.1)]">
+                    <DynamicIcon
+                      name={item.icon}
+                      className="h-4 w-4 text-[hsl(var(--nav-theme-light))]"
+                    />
+                  </div>
+                  <span className="rounded-full border border-border bg-background/50 px-2 py-0.5 text-[11px] font-medium text-muted-foreground">
+                    {item.type}
+                  </span>
+                </div>
+
+                <h3 className="mb-2 text-sm font-bold leading-snug">{item.name}</h3>
+
+                <p className="mb-3 text-xs text-muted-foreground">{item.objective}</p>
+
+                <div className="mb-3 rounded-md border border-emerald-500/30 bg-emerald-500/10 px-3 py-2">
+                  <p className="text-[11px] font-medium uppercase tracking-wide text-emerald-300/80">
+                    Reward
+                  </p>
+                  <p className="text-sm font-semibold text-emerald-200">{item.reward}</p>
+                </div>
+
+                <p className="text-xs text-muted-foreground/80">{item.howToComplete}</p>
+
+                {item.drops ? (
+                  <div className="mt-3 flex flex-wrap gap-1.5 border-t border-border pt-3">
+                    {item.drops.map((drop: string, di: number) => (
+                      <span
+                        key={di}
+                        className="rounded-md border border-border bg-background/40 px-2 py-0.5 text-[11px] text-muted-foreground"
+                      >
+                        {drop}
+                      </span>
+                    ))}
+                  </div>
+                ) : null}
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 8: Discord and Official Links (link-hub) */}
+      <section id="discord-official-links" className="scroll-mt-24 bg-white/[0.02] px-4 py-14 md:py-20">
+        <div className="container mx-auto max-w-5xl">
+          <ModuleHeader
+            icon={<Link2 className="h-4 w-4 md:h-5 md:w-5" />}
+            eyebrow={officialLinks.eyebrow}
+            title={officialLinks.title}
+            subtitle={officialLinks.subtitle}
+            intro={officialLinks.intro}
+          />
+
+          <div className="scroll-reveal grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-5 lg:grid-cols-3">
+            {officialLinks.items.map((item: any, index: number) => (
+              <a
+                key={index}
+                href={item.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group flex flex-col rounded-xl border border-border bg-white/5 p-5 transition-all duration-300 hover:-translate-y-0.5 hover:border-[hsl(var(--nav-theme)/0.5)] hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)] md:p-6"
+              >
+                <div className="mb-3 flex items-center justify-between gap-2">
+                  <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-lg bg-[hsl(var(--nav-theme)/0.1)] transition-colors group-hover:bg-[hsl(var(--nav-theme)/0.2)]">
+                    <DynamicIcon
+                      name={item.icon}
+                      className="h-5 w-5 text-[hsl(var(--nav-theme-light))]"
+                    />
+                  </div>
+                  <ExternalLink className="h-4 w-4 text-muted-foreground transition-colors group-hover:text-[hsl(var(--nav-theme-light))]" />
+                </div>
+
+                <h3 className="mb-1 text-base font-bold leading-snug">{item.label}</h3>
+                <span className="mb-3 inline-flex w-fit rounded-full border border-[hsl(var(--nav-theme)/0.3)] bg-[hsl(var(--nav-theme)/0.1)] px-2.5 py-0.5 text-xs font-medium">
+                  {item.type}
+                </span>
+
+                <p className="mb-2 text-sm text-muted-foreground">{item.useCase}</p>
+                <p className="mt-auto text-xs text-muted-foreground/80">
+                  <span className="font-medium text-foreground">Best for: </span>
+                  {item.bestFor}
+                </p>
+              </a>
             ))}
           </div>
         </div>
