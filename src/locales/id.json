@@ -1,1 +1,1080 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Wiki Anime Final Quest - Kode, Senjata & Gear",
+      "description": "Wiki Anime Final Quest dengan kode, tier list senjata, pilihan gear, rute dungeon, boss, rune, quest, kontrol, dan tips pemula untuk pemain Roblox.",
+      "keywords": "Anime Final Quest, Roblox, kode, senjata, gear, dungeon, boss, rune",
+      "ogTitle": "Wiki Anime Final Quest - Kode, Senjata & Gear",
+      "ogDescription": "Wiki Anime Final Quest dengan kode, tier list senjata, pilihan gear, rute dungeon, boss, rune, quest, kontrol, dan tips pemula untuk pemain Roblox.",
+      "twitterTitle": "Wiki Anime Final Quest - Kode, Senjata & Gear",
+      "twitterDescription": "Wiki Anime Final Quest dengan kode, tier list senjata, pilihan gear, rute dungeon, boss, rune, quest, kontrol, dan tips pemula untuk pemain Roblox."
+    }
+  },
+  "nav": {
+    "codes": "Kode",
+    "tier-list": "Tier List",
+    "guide": "Panduan",
+    "weapons": "Senjata",
+    "bosses": "Boss",
+    "evolution": "Evolusi"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Lainnya",
+    "playNow": "Mainkan di Roblox",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya",
+    "articlesComingSoon": "Artikel segera hadir"
+  },
+  "hero": {
+    "badge": "Dungeon Crawler Anime Roblox",
+    "title": "Wiki Anime Final Quest",
+    "description": "Bertarunglah melewati dungeon anime, dapatkan senjata dan gear kuat, kumpulkan rune, buat kosmetik, kalahkan boss dungeon, dan selesaikan quest untuk hadiah eksklusif.",
+    "getFreeCodesCTA": "Dapatkan Kode Gratis",
+    "playOnRobloxCTA": "Mainkan di Roblox",
+    "stats": {
+      "stat1": {
+        "value": "126,7Jt+",
+        "label": "Total Kunjungan"
+      },
+      "stat2": {
+        "value": "98,57%",
+        "label": "Penilaian Pengguna"
+      },
+      "stat3": {
+        "value": "32,1K",
+        "label": "Puncak CCU"
+      },
+      "stat4": {
+        "value": "3,02Jt+",
+        "label": "Anggota Grup"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay Anime Final Quest",
+    "description": "Dapatkan senjata dan gear kuat, selesaikan dungeon anime, kumpulkan rune, kalahkan boss dungeon, dan buat kosmetik di game dungeon crawler anime Roblox ini."
+  },
+  "tools": {
+    "title": "Anime Final Quest",
+    "titleHighlight": "Alat & Panduan",
+    "subtitle": "Lompat langsung ke kode, tier list, langkah pemula, senjata, gear, build, dungeon, quest, dan tautan resmi Anime Final Quest.",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Kode",
+        "description": "Kode aktif, hadiah, dan langkah penukaran"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier List",
+        "description": "Senjata, gear, trait, dan pilihan awakening terbaik"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Panduan Pemula",
+        "description": "Langkah pertama, kontrol, dan progresi awal"
+      },
+      {
+        "icon": "Swords",
+        "title": "Senjata & Gear",
+        "description": "Bandingkan senjata dan gear berdasarkan peran dan nilai"
+      },
+      {
+        "icon": "Gem",
+        "title": "Trait, Rune & Build",
+        "description": "Reroll trait, pengeluaran rune, dan prioritas build"
+      },
+      {
+        "icon": "Castle",
+        "title": "Dungeon & Boss",
+        "description": "Progresi dungeon, pola boss, dan tiket raid"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Quest & Drop",
+        "description": "Hadiah quest, drop dungeon, dan kosmetik"
+      },
+      {
+        "icon": "Link2",
+        "title": "Discord & Tautan",
+        "description": "Sumber resmi Roblox, Discord, Trello, dan YouTube"
+      }
+    ]
+  },
+  "modules": {
+    "animeFinalQuestCodes": {
+      "title": "Kode Anime Final Quest",
+      "displayType": "code-cards",
+      "eyebrow": "Hadiah Gratis",
+      "subtitle": "Klaim kode Anime Final Quest terbaru untuk Weapon Lucky Spins, Gear Lucky Spins, Emas, Uang, Rune, dan Tiket Raid. Bergabunglah dengan grup Roblox resmi sebelum menukarkan kode.",
+      "intro": "Gunakan modul ini sebagai area kode langsung untuk Anime Final Quest. Modul ini menyoroti hadiah terbaru yang aktif terlebih dahulu, menjaga kode yang kedaluwarsa tetap terlihat untuk pemeriksaan cepat, dan menunjukkan jalur penukaran dalam game yang tepat yang dibutuhkan pemain.",
+      "groupNote": "Kode Anime Final Quest mengharuskan pemain untuk bergabung dengan grup Roblox resmi sebelum mengklaim hadiah dalam game.",
+      "activeCodes": [
+        {
+          "code": "SOULREAPER",
+          "status": "Aktif",
+          "reward": "50 Weapon Lucky Spins dan 30 Gear Lucky Spins",
+          "tag": "Pembaruan Soul Reaper",
+          "requirement": "Bergabunglah dengan grup Roblox Anime Final Quest sebelum menukarkan.",
+          "redeemSteps": [
+            "Bergabunglah dengan grup Roblox resmi Anime Final Quest.",
+            "Buka Anime Final Quest di Roblox.",
+            "Klik tombol Codes di sisi kanan layar.",
+            "Tempel kode dan tekan Konfirmasi."
+          ]
+        },
+        {
+          "code": "APOLOGIZEFORTHEDELAY",
+          "status": "Aktif",
+          "reward": "100K Emas, 30 Gear Lucky Spins, 30 Weapon Lucky Spins, dan 100 Rune",
+          "tag": "Pembaruan Soul Reaper",
+          "requirement": "Bergabunglah dengan grup Roblox Anime Final Quest sebelum menukarkan.",
+          "redeemSteps": [
+            "Bergabunglah dengan grup Roblox resmi Anime Final Quest.",
+            "Buka Anime Final Quest di Roblox.",
+            "Klik tombol Codes di sisi kanan layar.",
+            "Tempel kode dan tekan Konfirmasi."
+          ]
+        }
+      ],
+      "expiredCodes": [
+        "QOL",
+        "HOLLOWGEAR",
+        "STRAWHAT",
+        "RAIDUPDATE",
+        "LAWYER",
+        "WEEKENDEVENT",
+        "GENERALEVO",
+        "KING",
+        "ADMIRAL",
+        "SIDEUPDATE",
+        "WEEKENDGIFT",
+        "ESCANORSOON",
+        "RELEASE",
+        "AGRIS",
+        "THXFOR1MVISIT"
+      ],
+      "expiredNote": "Biarkan ini tetap terlihat agar pemain yang kembali dapat dengan cepat mengonfirmasi mengapa hadiah lama tidak dapat ditukarkan lagi.",
+      "redeemSteps": [
+        "Bergabunglah dengan grup Roblox resmi Anime Final Quest.",
+        "Buka Anime Final Quest di Roblox.",
+        "Klik tombol Codes di sisi kanan layar.",
+        "Tempel kode dan tekan Konfirmasi."
+      ]
+    },
+    "animeFinalQuestTierList": {
+      "title": "Daftar Tier Anime Final Quest",
+      "displayType": "tier-grid",
+      "eyebrow": "Peringkat Meta",
+      "subtitle": "Bandingkan senjata, gear, trait, aksesori, dan pilihan awakening Anime Final Quest terkuat untuk menyelesaikan dungeon, damage boss, dan utilitas tim.",
+      "intro": "Daftar tier ini mengelompokkan pilihan loadout yang paling berguna berdasarkan peran tempur. Senjata menghasilkan damage utama Anda, gear menambahkan utilitas atau burst, trait meningkatkan kekuatan pasif, dan aksesori menumpuk damage ekstra atau kelangsungan hidup untuk raid yang lebih sulit.",
+      "categories": [
+        {
+          "name": "Senjata",
+          "tiers": [
+            {
+              "tier": "SS",
+              "entries": [
+                {
+                  "name": "King of Curses (Evolved)",
+                  "role": "Damage AOE endgame"
+                },
+                {
+                  "name": "Restless Gambler",
+                  "role": "Pilihan senjata tingkat atas"
+                },
+                {
+                  "name": "Lawyer",
+                  "role": "Pilihan senjata tingkat atas"
+                },
+                {
+                  "name": "Priest",
+                  "role": "Pilihan senjata tingkat atas"
+                },
+                {
+                  "name": "King's Vessel",
+                  "role": "Pilihan senjata tingkat atas"
+                },
+                {
+                  "name": "Feared Slayer",
+                  "role": "Pilihan senjata tingkat atas"
+                }
+              ]
+            },
+            {
+              "tier": "S",
+              "entries": [
+                {
+                  "name": "Child of Sun",
+                  "role": "Senjata bernilai tinggi"
+                },
+                {
+                  "name": "King of Ripper (Evolved)",
+                  "role": "Senjata bernilai tinggi"
+                },
+                {
+                  "name": "Admiral",
+                  "role": "Senjata bernilai tinggi"
+                },
+                {
+                  "name": "Shadow",
+                  "role": "Senjata bernilai tinggi"
+                },
+                {
+                  "name": "Snowzuka",
+                  "role": "Senjata bernilai tinggi"
+                },
+                {
+                  "name": "Quincy",
+                  "role": "Senjata bernilai tinggi"
+                },
+                {
+                  "name": "King of Curses",
+                  "role": "Damage AOE dan boss"
+                },
+                {
+                  "name": "Mahito",
+                  "role": "Senjata bernilai tinggi"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "entries": [
+                {
+                  "name": "One-Eyed Reaper",
+                  "role": "Senjata pembunuh boss"
+                },
+                {
+                  "name": "Umbrella",
+                  "role": "Senjata AOE dan iframe defensif"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "entries": [
+                {
+                  "name": "Hawk Eye",
+                  "role": "Senjata jarak jauh dan kontrol gelombang yang andal"
+                }
+              ]
+            },
+            {
+              "tier": "C",
+              "entries": [
+                {
+                  "name": "King Ripper",
+                  "role": "Senjata awal yang tertinggal di kemudian hari"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gear",
+          "tiers": [
+            {
+              "tier": "S",
+              "entries": [
+                {
+                  "name": "Time Stop",
+                  "role": "Kontrol tim dan pengaturan burst"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "entries": [
+                {
+                  "name": "Coyote Pistol",
+                  "role": "DPS solo dan tekanan jarak jauh"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "entries": [
+                {
+                  "name": "Blood Hammer",
+                  "role": "Damage slam AOE"
+                },
+                {
+                  "name": "Heal",
+                  "role": "Sustain untuk tim atau run solo yang lebih aman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Trait",
+          "tiers": [
+            {
+              "tier": "S",
+              "entries": [
+                {
+                  "name": "Accuracy III",
+                  "effect": "+15% Damage Skill"
+                },
+                {
+                  "name": "Fortune",
+                  "effect": "+15% Emas dan EXP"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "entries": [
+                {
+                  "name": "Power III",
+                  "effect": "+15% Damage M1"
+                },
+                {
+                  "name": "Accuracy II",
+                  "effect": "+10% Damage Skill"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "entries": [
+                {
+                  "name": "Critical Chance",
+                  "effect": "+5% Crit Rate"
+                },
+                {
+                  "name": "Accuracy I",
+                  "effect": "+5% Damage Skill"
+                },
+                {
+                  "name": "Power II",
+                  "effect": "+10% Damage M1"
+                }
+              ]
+            },
+            {
+              "tier": "C",
+              "entries": [
+                {
+                  "name": "Power I",
+                  "effect": "+5% Damage M1"
+                },
+                {
+                  "name": "Juggernaut",
+                  "effect": "+50 HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Aksesori dan Awakening",
+          "tiers": [
+            {
+              "tier": "S",
+              "entries": [
+                {
+                  "name": "Agris Sword",
+                  "effect": "+75 HP dan +20% Crit Chance",
+                  "obtainedFrom": "Selesaikan semua quest Fiji"
+                },
+                {
+                  "name": "Strongest's Cape",
+                  "effect": "x2.0 Damage M1",
+                  "obtainedFrom": "Crafting Station"
+                },
+                {
+                  "name": "Divine Wheel",
+                  "effect": "+75 HP and x1.6 Damage Skill",
+                  "obtainedFrom": "Crafting Station"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "entries": [
+                {
+                  "name": "Royal Cape",
+                  "effect": "+50 HP",
+                  "obtainedFrom": "Gamepass VIP di Toko"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "entries": [
+                {
+                  "name": "Scarf",
+                  "effect": "+25 HP",
+                  "obtainedFrom": "Crafting Station"
+                }
+              ]
+            },
+            {
+              "tier": "Awakening",
+              "entries": [
+                {
+                  "name": "Agris Sword Awakening",
+                  "effect": "Peningkatan kekuatan sementara untuk menghabisi boss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "animeFinalQuestBeginnerGuide": {
+      "title": "Panduan Pemula Anime Final Quest",
+      "displayType": "step-by-step",
+      "eyebrow": "Mulai di Sini",
+      "subtitle": "Pelajari putaran inti Anime Final Quest: selesaikan dungeon, kalahkan bos, kumpulkan drop, dapatkan senjata dan gear yang lebih baik, kumpulkan rune, selesaikan quest, dan masuk ke mode yang lebih sulit.",
+      "intro": "Anime Final Quest adalah RPG dungeon berbasis gelombang di Roblox. Pemain baru harus fokus pada akses grup, kontrol dasar, farming dungeon, roll senjata dan gear, peningkatan build berbasis rune, dan hadiah quest awal sebelum mengejar loadout endgame.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Bergabunglah dengan Grup Resmi dan Klaim Kode",
+          "action": "Bergabunglah dengan grup Roblox Anime Final Quest, lalu tukarkan kode yang aktif dari tombol Kode di sisi kanan layar.",
+          "whyItMatters": "Kode memberikan spin awal, Gold, Cash, Rune, dan Ticket Raid sehingga grinding pertama menjadi lebih mudah."
+        },
+        {
+          "step": 2,
+          "title": "Pelajari Kontrol Dasar",
+          "action": "Gunakan M1 untuk serangan dasar, 1-3 untuk skill, 4 untuk Gear, 5 untuk Ultimate Skill, Q untuk Dash, G untuk Awakening, Ctrl untuk Shiftlock, dan roda mouse untuk Lock Camera.",
+          "whyItMatters": "Menghindar saat menyerang membuat Anda tetap hidup selama gelombang dan pertarungan bos."
+        },
+        {
+          "step": 3,
+          "title": "Selesaikan Dungeon Anime",
+          "action": "Bertarunglah melewati gelombang dungeon, kalahkan bos di akhir, dan kumpulkan Coins, loot, dan drop.",
+          "whyItMatters": "Penyelesaian dungeon adalah jalur dasar menuju gear yang lebih kuat, lebih banyak sumber daya, dan konten yang lebih sulit."
+        },
+        {
+          "step": 4,
+          "title": "Roll Senjata dan Gear",
+          "action": "Gunakan opsi Senjata dan Gear di lobi untuk menggunakan spin pada bagian loadout yang lebih kuat.",
+          "whyItMatters": "Senjata memberikan damage utama, sementara Gear menambahkan utilitas seperti kontrol, burst damage, atau pemulihan."
+        },
+        {
+          "step": 5,
+          "title": "Gunakan Rune dan Trait untuk Meningkatkan Build Anda",
+          "action": "Simpan rune untuk trait berharga seperti Skill Damage, M1 Damage, Crit Rate, atau bonus farming.",
+          "whyItMatters": "Trait yang bagus dapat membuat senjata yang kuat menjadi jauh lebih baik, sementara reroll acak dapat membuang kemajuan yang berguna."
+        },
+        {
+          "step": 6,
+          "title": "Selesaikan Rangkaian Quest Awal",
+          "action": "Prioritaskan hadiah quest yang berguna seperti rangkaian quest Agris, lalu terus selesaikan quest untuk hadiah eksklusif dan pertumbuhan akun.",
+          "whyItMatters": "Hadiah quest membantu menjembatani kesenjangan antara gear pemula dan pengaturan dungeon yang lebih kuat."
+        },
+        {
+          "step": 7,
+          "title": "Buat Kosmetik dan Tumpuk Peningkatan Akun",
+          "action": "Kumpulkan drop dari dungeon dan gunakan sistem crafting untuk kosmetik dan aksesori jika tersedia.",
+          "whyItMatters": "Peningkatan dan aksesori yang dibuat menambahkan kelangsungan hidup, crit, damage M1, atau damage skill untuk pertarungan yang lebih sulit."
+        }
+      ]
+    },
+    "animeFinalQuestWeaponsAndGear": {
+      "title": "Senjata dan Gear Anime Final Quest",
+      "displayType": "comparison-table",
+      "eyebrow": "Pembuat Loadout",
+      "subtitle": "Bandingkan senjata dan bagian gear utama Anime Final Quest berdasarkan peran, gaya damage, utilitas, dan nilai progresi.",
+      "intro": "Senjata adalah sumber utama damage di Anime Final Quest, sementara gear mengubah seberapa aman atau cepat Anda menyelesaikan gelombang dan bos. Gunakan tabel ini untuk merencanakan apakah suatu roll layak disimpan, ditingkatkan, atau diganti saat Anda beralih dari farming dungeon awal ke raid yang lebih sulit.",
+      "items": [
+        {
+          "name": "King of Curses",
+          "category": "Senjata",
+          "tier": "SS saat berevolusi / S dasar",
+          "rarity": "Mythic",
+          "role": "Damage AOE, burst bos, dan farming endgame",
+          "damageStyle": "Serangan M1 cepat, World Cutting Slashes, Cleave Dance, Fire Arrows, dan Domain Expansion",
+          "utility": "+250 HP dan cakupan gelombang yang kuat",
+          "progressionValue": "Target endgame utama untuk farming dungeon Nightmare"
+        },
+        {
+          "name": "Umbrella",
+          "category": "Senjata",
+          "tier": "A",
+          "rarity": "Legendary",
+          "role": "AOE jarak dekat dan pembersihan mob yang lebih aman",
+          "damageStyle": "Serangan cepat, stun Octa Shredder, damage jalur Rain Piercer, dan burst Thunderbrella",
+          "utility": "Frame kebal (invincibility frames) membantu menghindari damage bos atau gelombang yang berbahaya",
+          "progressionValue": "Senjata menengah-ke-akhir yang kuat untuk pemain yang membutuhkan damage dan keamanan"
+        },
+        {
+          "name": "One-Eyed Reaper",
+          "category": "Senjata",
+          "tier": "A",
+          "rarity": "Legendary",
+          "role": "Pembunuh bos dan senjata mobilitas",
+          "damageStyle": "Serangan dasar yang lebih lambat dengan burst yang kuat dan ultimate yang dirancang untuk damage bos",
+          "utility": "+200 HP dan burst mobilitas",
+          "progressionValue": "Berguna untuk pemain yang berfokus pada bos sebelum opsi SS yang lebih kuat"
+        },
+        {
+          "name": "Hawk Eye",
+          "category": "Senjata",
+          "tier": "B",
+          "rarity": "Epic",
+          "role": "Poke jarak jauh dan pembersihan gelombang",
+          "damageStyle": "Kitchen Slicer, Triple Knife, dan ultimate Ground Slam",
+          "utility": "Tekanan jarak jauh yang aman jika timing ditangani dengan baik",
+          "progressionValue": "Senjata awal-ke-menengah yang cukup baik hingga mendapatkan roll Legendary atau Mythic yang lebih baik"
+        },
+        {
+          "name": "King Ripper",
+          "category": "Senjata",
+          "tier": "C",
+          "rarity": "Rare",
+          "role": "Cadangan pemula",
+          "damageStyle": "Damage senjata dasar dengan penskalaan yang lemah",
+          "utility": "Tidak ada keunggulan HP atau utilitas yang signifikan",
+          "progressionValue": "Ganti dengan cepat setelah roll yang lebih kuat tersedia"
+        },
+        {
+          "name": "Time Stop",
+          "category": "Gear",
+          "tier": "S",
+          "rarity": "Mythic",
+          "role": "Kontrol tim dan persiapan burst",
+          "damageStyle": "Tidak ada fokus damage langsung; memungkinkan skill berantai dan ultimate",
+          "utility": "Membekukan musuh untuk persiapan, melarikan diri, atau waktu burst yang terkoordinasi",
+          "progressionValue": "Terbaik untuk permainan tim yang terorganisir dan kontrol dungeon yang sulit"
+        },
+        {
+          "name": "Coyote Pistol",
+          "category": "Gear",
+          "tier": "A",
+          "rarity": "Legendary",
+          "role": "DPS Solo dan tekanan jarak jauh",
+          "damageStyle": "Sinar jarak jauh yang meledak saat benturan dan mengenai banyak musuh",
+          "utility": "Tekanan cooldown rendah untuk kiting gelombang dan bos",
+          "progressionValue": "Gear solo yang sangat baik ketika pemain menginginkan uptime damage daripada crowd control"
+        },
+        {
+          "name": "Blood Hammer",
+          "category": "Gear",
+          "tier": "B",
+          "rarity": "Epic",
+          "role": "Burst AOE dan reset gelombang",
+          "damageStyle": "Hantaman shockwave dengan damage area luas",
+          "utility": "Dapat meratakan kelompok musuh, tetapi cooldown membatasi penggunaan berulang",
+          "progressionValue": "Opsi AOE sementara yang bagus sebelum mendapatkan roll gear yang lebih kuat"
+        },
+        {
+          "name": "Heal",
+          "category": "Gear",
+          "tier": "B",
+          "rarity": "Rare",
+          "role": "Sustain untuk permainan solo dan tim yang lebih aman",
+          "damageStyle": "Tanpa damage; dukungan aura penyembuhan",
+          "utility": "Memulihkan HP untuk pemain dan sekutu terdekat",
+          "progressionValue": "Berguna ketika kelangsungan hidup lebih penting daripada kecepatan penyelesaian"
+        }
+      ]
+    },
+    "animeFinalQuestTraitsRunesBuilds": {
+      "title": "Trait, Rune, dan Build Anime Final Quest",
+      "displayType": "card-list",
+      "eyebrow": "Optimalisasi Build",
+      "subtitle": "Rencanakan reroll Anda di sekitar damage, kecepatan farming, dan daya tahan daripada menghabiskan setiap sumber daya segera setelah muncul.",
+      "intro": "Build Anime Final Quest dibentuk oleh senjata, slot gear, trait, aksesori, rune, dan awakening. Setup terkuat dimulai dengan pilihan senjata dan gear yang andal, lalu menggunakan trait dan aksesori untuk melipatgandakan damage skill, damage M1, atau nilai farming.",
+      "items": [
+        {
+          "icon": "Crosshair",
+          "title": "Accuracy III",
+          "category": "Trait",
+          "effect": "+15% Damage Skill",
+          "priority": "Simpan untuk end-game",
+          "bestFor": "Pembersihan Nightmare, damage boss, dan senjata yang berfokus pada skill.",
+          "keepOrReroll": "Simpan setelah senjata Anda cukup kuat untuk membuat damage skill berarti."
+        },
+        {
+          "icon": "Coins",
+          "title": "Fortune",
+          "category": "Trait",
+          "effect": "+15% Gold dan EXP",
+          "priority": "Simpan untuk progres",
+          "bestFor": "Farming early dan mid-game sambil mengumpulkan gold, level, spin, dan sumber daya akun.",
+          "keepOrReroll": "Simpan saat farming, lalu ganti nanti ketika damage murni menjadi lebih berharga."
+        },
+        {
+          "icon": "Zap",
+          "title": "Power III",
+          "category": "Trait",
+          "effect": "+15% Damage M1",
+          "priority": "Alternatif yang kuat",
+          "bestFor": "Build serangan dasar, terutama dengan Strongest's Cape dan senjata dengan scaling M1 yang kuat.",
+          "keepOrReroll": "Simpan untuk farming yang berfokus pada M1 atau saat trait damage skill tidak tersedia."
+        },
+        {
+          "icon": "Target",
+          "title": "Critical Chance",
+          "category": "Trait",
+          "effect": "+5% Crit Chance",
+          "priority": "Trait kombo",
+          "bestFor": "Build yang berfokus pada boss yang juga menggunakan Agris Sword untuk +20% Crit Chance-nya.",
+          "keepOrReroll": "Simpan jika setup Anda sudah menggunakan Agris Sword, jika tidak, prioritaskan trait Accuracy atau Power."
+        },
+        {
+          "icon": "Gem",
+          "title": "Aturan Penggunaan Rune",
+          "category": "Ekonomi Rune",
+          "effect": "Rune mendukung peningkatan trait dan build",
+          "priority": "Kontrol sumber daya",
+          "bestFor": "Pemain yang sudah memiliki senjata, slot gear, dan rute farming dungeon yang stabil.",
+          "keepOrReroll": "Gunakan rune setelah loadout inti dapat digunakan; mengejar trait sempurna terlalu dini akan memperlambat progres."
+        },
+        {
+          "icon": "Wand2",
+          "title": "Build Damage Skill",
+          "category": "Template Build",
+          "effect": "King of Curses + Accuracy III + Divine Wheel + Agris Sword",
+          "priority": "Inti damage meta",
+          "bestFor": "Pembersihan dungeon AOE, fase boss, dan run tingkat kesulitan tinggi.",
+          "keepOrReroll": "Gunakan Time Stop untuk permainan tim atau Coyote Pistol untuk damage solo."
+        },
+        {
+          "icon": "Hand",
+          "title": "Build Damage M1",
+          "category": "Template Build",
+          "effect": "Strongest's Cape + Power III + serangan dasar cepat",
+          "priority": "Inti farming yang andal",
+          "bestFor": "Pembersihan yang konsisten saat skill sedang cooldown.",
+          "keepOrReroll": "Berfungsi dengan baik sebelum Anda sepenuhnya beralih ke optimalisasi damage skill Accuracy III."
+        },
+        {
+          "icon": "Layers",
+          "title": "Tumpukan Aksesori",
+          "category": "Inti Aksesori",
+          "effect": "Agris Sword, Strongest's Cape, Divine Wheel, Royal Cape, dan Scarf memberikan nilai tambah bersama-sama",
+          "priority": "Jangan diabaikan",
+          "bestFor": "Menumpuk pengganda damage, critical chance, dan bonus health di seluruh akun.",
+          "keepOrReroll": "Buat dan kumpulkan aksesori alih-alih menganggap kosmetik hanya sebagai hadiah visual."
+        }
+      ]
+    },
+    "animeFinalQuestDungeonsBossesRaids": {
+      "title": "Dungeon, Boss, dan Raid Anime Final Quest",
+      "displayType": "accordion",
+      "eyebrow": "Progres Dungeon",
+      "subtitle": "Gunakan dungeon untuk mendapatkan drop, membangun senjata dan gear yang lebih baik, dan beralih ke konten boss yang lebih sulit dengan rencana yang nyata.",
+      "intro": "Loop intinya sederhana: selesaikan dungeon anime, kalahkan wave dan boss, kumpulkan drop, buat kosmetik, kumpulkan rune, dan tingkatkan build untuk konten yang lebih sulit. Senjata yang lebih kuat, gear yang berguna, dan pilihan trait yang lebih baik mengubah pembersihan yang lambat menjadi rute farming yang dapat diulang.",
+      "items": [
+        {
+          "icon": "RefreshCw",
+          "title": "Loop Inti Dungeon",
+          "summary": "Selesaikan wave, kalahkan boss, kumpulkan loot, dan gunakan hadiahnya untuk meningkatkan senjata, gear, trait, dan kosmetik.",
+          "tags": [
+            "Loop Inti",
+            "Farming"
+          ],
+          "details": [
+            "Bertarung melalui dungeon anime dengan serangan M1, skill, gear, skill ultimate, gerakan dash, dan alat awakening.",
+            "Dapatkan senjata dan gear dari sistem progres, lalu gunakan drop dan rune untuk memperkuat build.",
+            "Ulangi dungeon yang lebih mudah sampai loadout siap untuk tingkat kesulitan Hard dan Nightmare."
+          ]
+        },
+        {
+          "icon": "Gauge",
+          "title": "Jalur Kesulitan",
+          "summary": "Mulai di Normal, pindah ke Hard setelah memiliki senjata yang stabil, dan farming Nightmare saat build dapat menyelesaikannya dengan aman.",
+          "tags": [
+            "Normal",
+            "Hard",
+            "Nightmare"
+          ],
+          "details": [
+            "Normal adalah untuk mempelajari pola musuh dan mengumpulkan material awal.",
+            "Hard adalah jembatan untuk persyaratan quest yang lebih kuat, termasuk penyelesaian Golem Boss.",
+            "Nightmare memberikan nilai farming yang lebih baik setelah pemain memiliki cukup damage, daya tahan, dan mobilitas."
+          ]
+        },
+        {
+          "icon": "Skull",
+          "title": "Pola Pertarungan Boss",
+          "summary": "Anggap boss sebagai pemeriksaan gerakan, bukan hanya sekadar penyerap damage.",
+          "tags": [
+            "Boss",
+            "Gerakan"
+          ],
+          "details": [
+            "Gunakan beberapa serangan M1, lalu dash ke samping untuk menghindari serangan balasan.",
+            "Simpan jendela burst untuk Time Stop, Agris Awakening, atau celah boss yang aman.",
+            "Prioritaskan untuk tetap hidup daripada mengeluarkan setiap skill dalam posisi yang buruk."
+          ]
+        },
+        {
+          "icon": "Ticket",
+          "title": "Penggunaan Ticket Raid",
+          "summary": "Ticket Raid muncul sebagai hadiah progres dan hadiah kode, jadi harus dianggap sebagai sumber daya terbatas.",
+          "tags": [
+            "Raid",
+            "Ticket"
+          ],
+          "details": [
+            "Bangun basis senjata dan gear yang lebih kuat sebelum menghabiskan tumpukan Ticket yang besar.",
+            "Gunakan Ticket saat akun sudah bisa menyelesaikan konten yang lebih sulit tanpa membuang-buang percobaan.",
+            "Pasangkan penggunaan Ticket dengan trait damage, gear yang berguna, dan aksesori untuk mendapatkan nilai yang lebih baik per run."
+          ]
+        },
+        {
+          "icon": "Users",
+          "title": "Setup Pembersihan Tim",
+          "summary": "Run tim mendapat manfaat dari kontrol, penyembuhan, dan jendela cooldown.",
+          "tags": [
+            "Co-op",
+            "Tim"
+          ],
+          "details": [
+            "Time Stop adalah pilihan gear kontrol tim utama untuk menahan wave di tempatnya.",
+            "Heal mendukung pertarungan boss yang lebih lama dan dungeon yang lebih sulit.",
+            "Coyote Pistol lebih kuat untuk pemain solo yang membutuhkan damage langsung yang cepat."
+          ]
+        },
+        {
+          "icon": "ListChecks",
+          "title": "Checklist Pembersihan Cepat",
+          "summary": "Pembersihan yang lebih cepat berasal dari lebih sedikit gerakan yang sia-sia, penargetan yang lebih baik, dan build yang sesuai dengan dungeon.",
+          "tags": [
+            "Kecepatan",
+            "Efisiensi"
+          ],
+          "details": [
+            "Kumpulkan musuh sebelum menggunakan skill AOE.",
+            "Singkirkan musuh jarak jauh lebih awal agar mereka tidak mengurangi health selama penarikan musuh.",
+            "Farming satu peta sampai pola musuh menjadi mudah ditebak, lalu tingkatkan kesulitan."
+          ]
+        }
+      ]
+    },
+    "animeFinalQuestQuestsDropsCosmetics": {
+      "title": "Quest, Drop, dan Kosmetik Anime Final Quest",
+      "displayType": "quest-cards",
+      "eyebrow": "Quest dan Hadiah",
+      "subtitle": "Lacak tujuan quest yang berguna, drop dungeon, dan statistik kosmetik yang mengubah penyelesaian berulang menjadi kemajuan akun yang nyata.",
+      "intro": "Anime Final Quest menghubungkan progres ke quest, drop dungeon, kosmetik yang dapat dibuat, dan hadiah awakening. Jalur hadiah Fiji dan Agris sangat berguna karena mendorong pemain melalui dungeon, penyelesaian bos, penyelesaian Nightmare, crafting, dan tujuan penyelesaian co-op.",
+      "items": [
+        {
+          "icon": "Sparkles",
+          "name": "Mulai Buka Kunci Agris",
+          "type": "Quest Awakening",
+          "objective": "Bicaralah dengan NPC Quest Fiji di HUB dekat patung Agris dan pilih dialog buka kunci.",
+          "reward": "Membuka questline Agris dan mengarah ke hadiah Skill Ultimate Agris.",
+          "howToComplete": "Capai Level 5+, lalu mulai questline dari HUB."
+        },
+        {
+          "icon": "Castle",
+          "name": "Selesaikan 20 Dungeon",
+          "type": "Quest Dungeon",
+          "objective": "Selesaikan 20 kali pembersihan dungeon.",
+          "reward": "4 Spin Senjata Keberuntungan",
+          "howToComplete": "Gunakan ini sebagai pelacak progres utama sambil farming material dan mempelajari pola musuh."
+        },
+        {
+          "icon": "Swords",
+          "name": "Bunuh 500 Musuh",
+          "type": "Quest Pertempuran",
+          "objective": "Kalahkan 500 musuh di seluruh sesi dungeon.",
+          "reward": "10K Emas",
+          "howToComplete": "Farm dungeon yang dapat diulang dengan senjata yang membersihkan grup dengan cepat."
+        },
+        {
+          "icon": "Skull",
+          "name": "Bunuh Bos Golem di Mode Hard 3 Kali",
+          "type": "Quest Bos",
+          "objective": "Kalahkan Bos Golem tiga kali pada tingkat kesulitan Hard.",
+          "reward": "3 Spin Gear Normal",
+          "howToComplete": "Bawa senjata yang stabil, hindari serangan bos, dan ulangi penyelesaian mode Hard."
+        },
+        {
+          "icon": "Moon",
+          "name": "Selesaikan 3 Dungeon Nightmare",
+          "type": "Quest Kesulitan",
+          "objective": "Selesaikan tiga dungeon pada tingkat kesulitan Nightmare.",
+          "reward": "3 Rune",
+          "howToComplete": "Cobalah ini setelah build memiliki damage yang lebih kuat, slot gear yang berguna, dan kemampuan bertahan yang cukup."
+        },
+        {
+          "icon": "Users",
+          "name": "Mainkan Summon Gate dengan 1 Orang Lagi",
+          "type": "Quest Co-op",
+          "objective": "Selesaikan Summon Gate, dungeon pertama, dengan satu pemain tambahan.",
+          "reward": "2 Spin Senjata Normal",
+          "howToComplete": "Antre dengan rekan tim dan selesaikan dungeon bersama-sama."
+        },
+        {
+          "icon": "Hammer",
+          "name": "Buat Jubah Terkuat",
+          "type": "Quest Crafting",
+          "objective": "Buat Jubah Terkuat (Strongest's Cape) dari material dungeon.",
+          "reward": "2 Rune",
+          "howToComplete": "Gunakan 1x Golem's Heart, 4x Monkey Hair, dan 5x Goblin Armor Piece di Crafting Station.",
+          "drops": [
+            "Golem's Heart: Summon Gate",
+            "Goblin Armor Piece: Summon Gate",
+            "Monkey Hair: Summon Station 1"
+          ]
+        },
+        {
+          "icon": "Star",
+          "name": "Selesaikan Summon Station 1 dengan Senjata Legendary",
+          "type": "Quest Persyaratan Senjata",
+          "objective": "Selesaikan Summon Station 1, dungeon kedua, dengan senjata Legendary di Mode Hard.",
+          "reward": "3 Spin Gear Keberuntungan",
+          "howToComplete": "Lakukan spin atau upgrade ke senjata Legendary terlebih dahulu, lalu jalankan dungeon kedua di mode Hard."
+        },
+        {
+          "icon": "Medal",
+          "name": "Selesaikan Summon Station 2 dengan Senjata Epic",
+          "type": "Quest Persyaratan Senjata",
+          "objective": "Selesaikan Summon Station 2, dungeon ketiga, dengan senjata Epic di Mode Normal.",
+          "reward": "6K Emas",
+          "howToComplete": "Lengkapi senjata Epic sebelum memulai dungeon ketiga di mode Normal."
+        },
+        {
+          "icon": "Crown",
+          "name": "Kosmetik Pedang Agris",
+          "type": "Hadiah Kosmetik",
+          "objective": "Selesaikan jalur hadiah Agris untuk menambahkan kosmetik Pedang Agris ke build.",
+          "reward": "+75 Health dan +20% Crit Chance",
+          "howToComplete": "Gunakan sebagai kosmetik peningkat statistik; ini mengubah tampilan senjata sementara senjata yang dilengkapi tetap mempertahankan skill dasarnya."
+        }
+      ]
+    },
+    "animeFinalQuestDiscordOfficialLinks": {
+      "title": "Discord dan Tautan Resmi Anime Final Quest",
+      "displayType": "link-hub",
+      "eyebrow": "Sumber Resmi",
+      "subtitle": "Gunakan sumber video developer, Trello, Discord, dan Roblox resmi untuk melacak pembaruan, mekanik, kode, dan pengumuman komunitas.",
+      "intro": "Anime Final Quest sering berubah, jadi jalur pembaruan paling aman adalah dengan menyatukan tautan resmi. Hub ini mengarahkan pemain ke pengalaman Roblox langsung, komunitas Roblox resmi, server Discord, papan informasi Trello, dan saluran YouTube CELL GAMES.",
+      "items": [
+        {
+          "icon": "Gamepad2",
+          "label": "Mainkan Anime Final Quest",
+          "type": "Pengalaman Roblox",
+          "href": "https://www.roblox.com/games/100744519298647/Anime-Final-Quest",
+          "useCase": "Luncurkan game, periksa judul pembaruan saat ini, baca deskripsi resmi game, dan lihat kontrol.",
+          "bestFor": "Bermain, memeriksa pembaruan, dan informasi dasar game."
+        },
+        {
+          "icon": "Users",
+          "label": "Komunitas Roblox Anime Final Quest",
+          "type": "Grup Roblox",
+          "href": "https://www.roblox.com/communities/34258454/Anime-Final-Quest",
+          "useCase": "Bergabunglah dengan grup game resmi yang terhubung dengan kode dan pembaruan komunitas.",
+          "bestFor": "Persyaratan kode, pengumuman grup, dan identitas komunitas resmi."
+        },
+        {
+          "icon": "MessageCircle",
+          "label": "Discord Anime Final Quest",
+          "type": "Server Discord",
+          "href": "https://discord.com/invite/finalquest",
+          "useCase": "Ikuti postingan developer, saluran kode, catatan pembaruan, laporan bug, dan diskusi pemain.",
+          "bestFor": "Pembaruan komunitas tercepat dan pengumuman langsung."
+        },
+        {
+          "icon": "SquareStack",
+          "label": "Trello Informasi Anime Final Quest",
+          "type": "Papan Trello",
+          "href": "https://trello.com/b/sfBbkpv2/anime-final-quest-information",
+          "useCase": "Periksa informasi game yang terorganisir seperti mekanik, item, senjata, perlengkapan, trait, dan referensi pembaruan.",
+          "bestFor": "Penjelajahan referensi yang terstruktur."
+        },
+        {
+          "icon": "Video",
+          "label": "YouTube CELL GAMES",
+          "type": "Sumber Video Pengembang",
+          "href": "https://www.youtube.com/@CELLGAMESROBLOX",
+          "useCase": "Tonton cuplikan resmi dan postingan video developer untuk Anime Final Quest.",
+          "bestFor": "Pratinjau pembaruan visual dan media dari sisi developer."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering",
+    "titleHighlight": "Diajukan",
+    "subtitle": "Semua yang perlu Anda ketahui tentang Anime Final Quest",
+    "questions": [
+      {
+        "question": "Apa itu kode Anime Final Quest?",
+        "answer": "Kode Anime Final Quest adalah kode gratis yang dapat ditukarkan yang memberikan Weapon Lucky Spins, Gear Lucky Spins, Gold, Cash, Runes, dan Raid Ticket untuk membantu Anda mendapatkan loadout yang lebih kuat dan berkembang lebih cepat."
+      },
+      {
+        "question": "Bagaimana cara menukarkan kode di Anime Final Quest?",
+        "answer": "Bergabunglah dengan grup Roblox Anime Final Quest resmi, buka game, klik tombol Codes di sisi kanan layar, tempel kode Anda, dan tekan Confirm untuk mengklaim hadiah Anda."
+      },
+      {
+        "question": "Apakah Anime Final Quest gratis untuk dimainkan?",
+        "answer": "Ya. Anime Final Quest adalah game dungeon crawler anime Roblox gratis. Anda dapat memainkannya langsung melalui aplikasi Roblox di PC, seluler, dan konsol yang didukung tanpa pembelian apa pun."
+      },
+      {
+        "question": "Bagaimana cara mendapatkan senjata yang lebih baik di Anime Final Quest?",
+        "answer": "Gunakan Weapon Lucky Spins di lobi, selesaikan dungeon untuk mendapatkan drop dan sumber daya, simpan Runes untuk trait yang berharga, dan tukarkan kode Anime Final Quest untuk mendapatkan spin tambahan guna mendapatkan senjata yang lebih kuat."
+      },
+      {
+        "question": "Apakah saya perlu bergabung dengan grup Anime Final Quest untuk menukarkan kode?",
+        "answer": "Ya. Kode Anime Final Quest mengharuskan Anda untuk bergabung dengan grup Roblox resmi sebelum Anda dapat mengklaim hadiah di dalam game, jadi bergabunglah dengan grup terlebih dahulu sebelum menukarkan kode apa pun."
+      },
+      {
+        "question": "Apa cara terbaik untuk memulai Anime Final Quest?",
+        "answer": "Pemain baru Anime Final Quest harus bergabung dengan grup, menukarkan kode, mempelajari kontrol dasar, menyelesaikan dungeon anime, melakukan roll senjata dan perlengkapan, menggunakan Runes dan Traits, serta menyelesaikan rangkaian quest awal untuk kemajuan yang stabil."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap untuk Memainkan Anime Final Quest?",
+    "description": "Bergabunglah dengan komunitas Anime Final Quest di Discord dan Roblox untuk mendapatkan kode, panduan, pembaruan, dan diskusi!",
+    "joinCommunity": "Gabung Discord",
+    "joinGame": "Mainkan di Roblox"
+  },
+  "footer": {
+    "title": "Wiki Anime Final Quest",
+    "description": "Hub sumber daya lengkap Anda untuk kode, senjata, perlengkapan, build, dungeon, bos, runes, dan panduan quest Anime Final Quest.",
+    "resources": "Sumber Daya",
+    "community": "Komunitas",
+    "legal": "Hukum",
+    "discord": "Discord",
+    "youtube": "YouTube",
+    "robloxGroup": "Grup Roblox",
+    "robloxGame": "Mainkan di Roblox",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "copyrightNotice": "Hak Cipta",
+    "copyright": "© 2026 Wiki Anime Final Quest. Tidak berafiliasi dengan CELL GAMES atau Roblox Corporation.",
+    "disclaimer": "Situs web sumber daya tidak resmi buatan penggemar."
+  },
+  "pages": {
+    "codes": {
+      "title": "Kode Anime Final Quest",
+      "description": "Kode Anime Final Quest terbaru yang masih aktif untuk Weapon Lucky Spins, Gear Lucky Spins, Gold, Runes, dan Raid Tickets gratis, plus langkah-langkah penukaran dalam game yang tepat.",
+      "metaTitle": "Kode Anime Final Quest - Spin Gratis, Gold & Runes",
+      "metaDescription": "Klaim kode Anime Final Quest yang aktif untuk Weapon Lucky Spins, Gear Lucky Spins, Gold, Runes, dan Raid Tickets gratis. Diperbarui dengan kode yang berfungsi dan langkah penukaran lengkap.",
+      "categoryLabel": "KODE PENUKARAN",
+      "whatIs": "Apa itu Kode Anime Final Quest?",
+      "whatIsDescription": "Kode Anime Final Quest adalah kode gratis yang dapat ditukarkan yang dirilis oleh pengembang untuk memberikan Weapon Lucky Spins, Gear Lucky Spins, Gold, Cash, Runes, dan Raid Tickets. Sebagian besar kode mengharuskan Anda untuk bergabung dengan grup Roblox resmi sebelum menukarkannya, dan setiap kode akan kedaluwarsa seiring waktu saat pembaruan baru tiba.",
+      "why": "Mengapa menggunakan kode Anime Final Quest?",
+      "whySteps": {
+        "step1Title": "Weapon dan Gear Spin Gratis",
+        "step1Description": "Kode memberikan Lucky Spins sehingga Anda dapat melakukan roll untuk senjata dan perlengkapan yang lebih kuat tanpa menghabiskan sumber daya Anda sendiri.",
+        "step2Title": "Gold dan Runes Tambahan",
+        "step2Description": "Tukarkan kode untuk Gold dan Runes yang mempercepat reroll trait, peningkatan build, dan progres akun.",
+        "step3Title": "Progres Awal yang Lebih Cepat",
+        "step3Description": "Tumpuk hadiah kode dengan farming dungeon untuk menyelesaikan konten awal dan mencapai mode Hard dan Nightmare lebih cepat."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Kode"
+    },
+    "tier-list": {
+      "title": "Tier List Anime Final Quest",
+      "description": "Bandingkan senjata, perlengkapan, pasif, dan peningkatan forge terkuat di Anime Final Quest untuk penyelesaian dungeon, damage boss, dan utilitas tim.",
+      "metaTitle": "Tier List Anime Final Quest - Senjata, Perlengkapan & Pasif",
+      "metaDescription": "Peringkat senjata, perlengkapan, pasif, dan peningkatan forge Anime Final Quest terbaik. Temukan loadout tier-S untuk penyelesaian dungeon, damage boss, dan raid yang lebih sulit.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "Apa itu Tier List Anime Final Quest?",
+      "whatIsDescription": "Tier list Anime Final Quest memberi peringkat senjata, perlengkapan, pasif, dan peningkatan forge berdasarkan nilainya dalam penyelesaian dungeon, pertarungan boss, dan permainan tim. Tier yang lebih tinggi menyelesaikan lebih cepat, berskala lebih baik ke endgame, dan cocok dipadukan dengan trait dan aksesori yang kuat.",
+      "why": "Mengapa mengikuti tier list Anime Final Quest?",
+      "whySteps": {
+        "step1Title": "Roll Senjata yang Tepat Terlebih Dahulu",
+        "step1Description": "Fokuskan spin pada senjata tier-S yang membawa damage Anda melalui dungeon Normal, Hard, dan Nightmare.",
+        "step2Title": "Pilih Perlengkapan yang Sesuai dengan Peran Anda",
+        "step2Description": "Pilih perlengkapan kontrol, burst, atau sustain berdasarkan apakah Anda bermain solo atau dalam tim.",
+        "step3Title": "Build Berdasarkan Pasif dan Forge",
+        "step3Description": "Tumpuk pasif dan peningkatan forge yang melipatgandakan damage skill, damage M1, atau kemampuan bertahan hidup."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Tier List"
+    },
+    "guide": {
+      "title": "Panduan Anime Final Quest",
+      "description": "Panduan lengkap Anime Final Quest yang mencakup pengaturan pemula, kontrol, leveling, jalur progres, dan farming dungeon untuk setiap tahap permainan.",
+      "metaTitle": "Panduan Anime Final Quest - Pemula, Progres & Leveling",
+      "metaDescription": "Kuasai Anime Final Quest dengan panduan pemula, kontrol, rute leveling, farming XP, pembukaan World 2, dan jalur progres lengkap untuk pemain Roblox.",
+      "categoryLabel": "PANDUAN GAME",
+      "whatIs": "Apa itu Panduan Anime Final Quest?",
+      "whatIsDescription": "Koleksi panduan Anime Final Quest memandu Anda melalui siklus inti: bergabung dengan grup resmi, menukarkan kode, mempelajari kontrol, menyelesaikan dungeon anime, melakukan roll senjata dan perlengkapan, dan maju dari penyelesaian pertama Anda ke konten yang lebih sulit.",
+      "why": "Mengapa membaca panduan Anime Final Quest?",
+      "whySteps": {
+        "step1Title": "Mulai dengan Pengaturan yang Tepat",
+        "step1Description": "Bergabunglah dengan grup resmi, tukarkan kode, dan pelajari kontrol inti sebelum dungeon pertama Anda.",
+        "step2Title": "Leveling dan Farming Secara Efisien",
+        "step2Description": "Ikuti rute XP dan jalur farming dungeon yang terbukti untuk naik level dengan cepat dan membuka World 2.",
+        "step3Title": "Rencanakan Progres Anda",
+        "step3Description": "Gunakan panduan progres langkah demi langkah untuk beralih dari pemula menjadi pro tanpa membuang spin atau rune."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan"
+    },
+    "weapons": {
+      "title": "Senjata Anime Final Quest",
+      "description": "Panduan senjata Anime Final Quest terperinci yang mencakup skill, gaya damage, kelangkaan, dan bagaimana setiap senjata cocok dengan loadout dungeon dan boss Anda.",
+      "metaTitle": "Senjata Anime Final Quest - Skill, Build & Peringkat",
+      "metaDescription": "Telusuri panduan senjata Anime Final Quest untuk skill, gaya damage, kelangkaan, dan pengaturan build. Temukan senjata terbaik untuk penyelesaian dungeon, pertarungan boss, dan loadout endgame.",
+      "categoryLabel": "SENJATA",
+      "whatIs": "Apa itu Senjata Anime Final Quest?",
+      "whatIsDescription": "Senjata Anime Final Quest adalah sumber utama damage di setiap loadout. Setiap senjata memiliki serangan M1, skill, ultimate, dan awakening sendiri yang menentukan cara senjata tersebut menyelesaikan dungeon dan melawan boss. Senjata yang lebih kuat didapat dari Lucky Spins dan berevolusi menjadi bentuk yang lebih kuat.",
+      "why": "Mengapa mempelajari senjata Anime Final Quest?",
+      "whySteps": {
+        "step1Title": "Cocokkan Senjata dengan Gaya Bermain Anda",
+        "step1Description": "Pilih senjata AOE untuk membersihkan gelombang musuh atau senjata burst untuk damage boss berdasarkan cara Anda bermain.",
+        "step2Title": "Ketahui Skill Setiap Senjata",
+        "step2Description": "Pelajari rantai M1, rotasi skill, dan waktu awakening untuk memaksimalkan output damage Anda.",
+        "step3Title": "Rencanakan Evolusi dan Peningkatan",
+        "step3Description": "Pahami senjata mana yang berevolusi dan mana yang layak disimpan, ditingkatkan, atau diganti."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Senjata"
+    },
+    "bosses": {
+      "title": "Boss Anime Final Quest",
+      "description": "Panduan boss Anime Final Quest yang mencakup lokasi spawn, pola serangan, drop, dan build terbaik untuk setiap pertemuan boss dan raid.",
+      "metaTitle": "Boss Anime Final Quest - Lokasi, Pola & Drop",
+      "metaDescription": "Kalahkan setiap boss Anime Final Quest dengan panduan lokasi spawn, pola serangan, drop, taktik raid, dan build terbaik untuk pertarungan solo dan tim.",
+      "categoryLabel": "BOSS",
+      "whatIs": "Apa itu Boss Anime Final Quest?",
+      "whatIsDescription": "Boss Anime Final Quest adalah tantangan pertempuran utama di dalam dungeon dan raid. Setiap boss memiliki kondisi spawn, pola serangan, dan drop yang unik, dan pertemuan yang lebih sulit seperti dungeon Nightmare dan boss raid menjatuhkan senjata, perlengkapan, dan sumber daya paling langka.",
+      "why": "Mengapa mempelajari pertarungan boss Anime Final Quest?",
+      "whySteps": {
+        "step1Title": "Temukan Lokasi Spawn Boss",
+        "step1Description": "Pelajari di mana dan kapan setiap boss muncul sehingga Anda dapat merencanakan rute farming yang efisien.",
+        "step2Title": "Baca Pola Serangan",
+        "step2Description": "Hindari serangan boss, atur waktu jendela burst Anda, dan tetap hidup melalui pertarungan yang panjang.",
+        "step3Title": "Targetkan Drop Terbaik",
+        "step3Description": "Fokus pada boss yang menjatuhkan senjata, perlengkapan, dan material yang benar-benar dibutuhkan oleh build Anda."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Boss"
+    },
+    "evolution": {
+      "title": "Evolusi Anime Final Quest",
+      "description": "Panduan evolusi dan awakening Anime Final Quest yang mencakup quest pembukaan, tingkat spin, mekanik pity, dan senjata evolusi terkuat dalam meta.",
+      "metaTitle": "Evolusi Anime Final Quest - Awakening & Senjata Evolusi",
+      "metaDescription": "Buka evolusi dan awakening Anime Final Quest dengan panduan tentang quest, tingkat spin, mekanik pity, dan senjata evolusi terkuat untuk loadout endgame.",
+      "categoryLabel": "EVOLUSI",
+      "whatIs": "Apa itu Evolusi Anime Final Quest?",
+      "whatIsDescription": "Evolusi Anime Final Quest meningkatkan senjata dasar menjadi bentuk evolusi yang lebih kuat dengan skill baru, damage lebih tinggi, dan penskalaan yang lebih baik. Evolusi dibuka melalui quest, spin, dan mekanik pity, dan senjata evolusi sering kali menentukan meta endgame.",
+      "why": "Mengapa mengejar evolusi Anime Final Quest?",
+      "whySteps": {
+        "step1Title": "Buka Quest Evolusi",
+        "step1Description": "Selesaikan quest dan persyaratan yang membuka bentuk evolusi setiap senjata.",
+        "step2Title": "Pahami Tingkat Spin dan Pity",
+        "step2Description": "Pelajari tingkat spin dan mekanik pity agar Anda tahu berapa banyak percobaan yang diperlukan untuk sebuah evolusi.",
+        "step3Title": "Bangun Build di Sekitar Senjata Evolusi",
+        "step3Description": "Pasangkan senjata evolusi dengan gear, trait, dan aksesori yang tepat untuk damage maksimal."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Evolusi"
+    }
+  }
+}

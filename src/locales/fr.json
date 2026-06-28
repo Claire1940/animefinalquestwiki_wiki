@@ -1,1 +1,1080 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Wiki Anime Final Quest - Codes, armes et équipements",
+      "description": "Wiki Anime Final Quest avec codes, tier lists d'armes, choix d'équipements, itinéraires de donjons, boss, runes, quêtes, commandes et conseils pour débutants pour les joueurs Roblox.",
+      "keywords": "Anime Final Quest, Roblox, codes, armes, équipements, donjons, boss, runes",
+      "ogTitle": "Wiki Anime Final Quest - Codes, armes et équipements",
+      "ogDescription": "Wiki Anime Final Quest avec codes, tier lists d'armes, choix d'équipements, itinéraires de donjons, boss, runes, quêtes, commandes et conseils pour débutants pour les joueurs Roblox.",
+      "twitterTitle": "Wiki Anime Final Quest - Codes, armes et équipements",
+      "twitterDescription": "Wiki Anime Final Quest avec codes, tier lists d'armes, choix d'équipements, itinéraires de donjons, boss, runes, quêtes, commandes et conseils pour débutants pour les joueurs Roblox."
+    }
+  },
+  "nav": {
+    "codes": "Codes",
+    "tier-list": "Tier List",
+    "guide": "Guide",
+    "weapons": "Armes",
+    "bosses": "Boss",
+    "evolution": "Évolution"
+  },
+  "common": {
+    "home": "Accueil",
+    "more": "Plus",
+    "playNow": "Jouer sur Roblox",
+    "switchLanguage": "Changer de langue",
+    "switchTheme": "Changer de thème",
+    "lightMode": "Mode clair",
+    "darkMode": "Mode sombre",
+    "notFound": "Page non trouvée",
+    "notFoundDescription": "La page que vous recherchez n'existe pas.",
+    "backToHome": "Retour à l'accueil",
+    "relatedArticles": "Articles connexes",
+    "readMore": "Lire la suite",
+    "articlesComingSoon": "Articles à venir"
+  },
+  "hero": {
+    "badge": "Dungeon Crawler Anime sur Roblox",
+    "title": "Wiki Anime Final Quest",
+    "description": "Combattez dans des donjons d'anime, obtenez des armes et équipements puissants, rassemblez des runes, fabriquez des cosmétiques, battez des boss de donjon et terminez des quêtes pour obtenir des récompenses exclusives.",
+    "getFreeCodesCTA": "Obtenir des codes gratuits",
+    "playOnRobloxCTA": "Jouer sur Roblox",
+    "stats": {
+      "stat1": {
+        "value": "126,7M+",
+        "label": "Visites totales"
+      },
+      "stat2": {
+        "value": "98,57%",
+        "label": "Évaluation des utilisateurs"
+      },
+      "stat3": {
+        "value": "32,1K",
+        "label": "Pic de CCU"
+      },
+      "stat4": {
+        "value": "3,02M+",
+        "label": "Membres du groupe"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay d'Anime Final Quest",
+    "description": "Obtenez des armes et équipements puissants, terminez des donjons d'anime, rassemblez des runes, battez des boss de donjon et fabriquez des cosmétiques dans ce dungeon crawler anime sur Roblox."
+  },
+  "tools": {
+    "title": "Anime Final Quest",
+    "titleHighlight": "Outils & Guides",
+    "subtitle": "Accédez directement aux codes, tier lists, étapes pour débutants, armes, équipements, builds, donjons, quêtes et liens officiels d'Anime Final Quest.",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Codes",
+        "description": "Codes actifs, récompenses et étapes d'activation"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier List",
+        "description": "Meilleures armes, équipements, traits et choix d'éveil"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Beginner Guide",
+        "description": "Premières étapes, commandes et progression de départ"
+      },
+      {
+        "icon": "Swords",
+        "title": "Weapons & Gear",
+        "description": "Comparez les armes et équipements par rôle et valeur"
+      },
+      {
+        "icon": "Gem",
+        "title": "Traits, Runes & Builds",
+        "description": "Rerolls de traits, dépenses de runes et priorités de build"
+      },
+      {
+        "icon": "Castle",
+        "title": "Dungeons & Bosses",
+        "description": "Progression des donjons, patterns des boss et tickets de raid"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Quests & Drops",
+        "description": "Récompenses de quêtes, butins de donjons et cosmétiques"
+      },
+      {
+        "icon": "Link2",
+        "title": "Discord & Links",
+        "description": "Sources officielles Roblox, Discord, Trello et YouTube"
+      }
+    ]
+  },
+  "modules": {
+    "animeFinalQuestCodes": {
+      "title": "Codes Anime Final Quest",
+      "displayType": "code-cards",
+      "eyebrow": "Récompenses gratuites",
+      "subtitle": "Récupérez les derniers codes Anime Final Quest pour obtenir des tirages chanceux d'armes, des tirages chanceux d'équipements, de l'or, de l'argent, des runes et des tickets de raid. Rejoignez le groupe Roblox officiel avant d'utiliser les codes.",
+      "intro": "Utilisez ce module comme zone de codes en direct pour Anime Final Quest. Il met en évidence les nouvelles récompenses actives en premier, garde les codes expirés visibles pour une vérification rapide et montre le chemin d'activation exact en jeu dont les joueurs ont besoin.",
+      "groupNote": "Les codes Anime Final Quest nécessitent que le joueur rejoigne le groupe Roblox officiel avant de récupérer les récompenses en jeu.",
+      "activeCodes": [
+        {
+          "code": "SOULREAPER",
+          "status": "Actif",
+          "reward": "50 tirages chanceux d'armes et 30 tirages chanceux d'équipements",
+          "tag": "Mise à jour Soul Reaper",
+          "requirement": "Rejoignez le groupe Roblox Anime Final Quest avant d'utiliser le code.",
+          "redeemSteps": [
+            "Rejoignez le groupe Roblox officiel de Anime Final Quest.",
+            "Ouvrez Anime Final Quest sur Roblox.",
+            "Cliquez sur le bouton Codes sur le côté droit de l'écran.",
+            "Collez le code et appuyez sur Confirmer."
+          ]
+        },
+        {
+          "code": "APOLOGIZEFORTHEDELAY",
+          "status": "Actif",
+          "reward": "100k d'or, 30 tirages chanceux d'équipements, 30 tirages chanceux d'armes et 100 runes",
+          "tag": "Mise à jour Soul Reaper",
+          "requirement": "Rejoignez le groupe Roblox Anime Final Quest avant d'utiliser le code.",
+          "redeemSteps": [
+            "Rejoignez le groupe Roblox officiel de Anime Final Quest.",
+            "Ouvrez Anime Final Quest sur Roblox.",
+            "Cliquez sur le bouton Codes sur le côté droit de l'écran.",
+            "Collez le code et appuyez sur Confirmer."
+          ]
+        }
+      ],
+      "expiredCodes": [
+        "QOL",
+        "HOLLOWGEAR",
+        "STRAWHAT",
+        "RAIDUPDATE",
+        "LAWYER",
+        "WEEKENDEVENT",
+        "GENERALEVO",
+        "KING",
+        "ADMIRAL",
+        "SIDEUPDATE",
+        "WEEKENDGIFT",
+        "ESCANORSOON",
+        "RELEASE",
+        "AGRIS",
+        "THXFOR1MVISIT"
+      ],
+      "expiredNote": "Gardez-les visibles pour que les joueurs de retour puissent rapidement confirmer pourquoi les anciennes récompenses ne fonctionnent plus.",
+      "redeemSteps": [
+        "Rejoignez le groupe Roblox officiel de Anime Final Quest.",
+        "Ouvrez Anime Final Quest sur Roblox.",
+        "Cliquez sur le bouton Codes sur le côté droit de l'écran.",
+        "Collez le code et appuyez sur Confirmer."
+      ]
+    },
+    "animeFinalQuestTierList": {
+      "title": "Tier List Anime Final Quest",
+      "displayType": "tier-grid",
+      "eyebrow": "Classements de la méta",
+      "subtitle": "Comparez les meilleures armes, équipements, traits, accessoires et choix d'éveil d'Anime Final Quest pour les donjons, les dégâts sur les boss et l'utilité en équipe.",
+      "intro": "Cette tier list regroupe les choix d'équipement les plus utiles par rôle de combat. Les armes infligent vos dégâts principaux, les équipements ajoutent de l'utilité ou du burst, les traits améliorent la puissance passive et les accessoires cumulent des dégâts supplémentaires ou de la survivabilité pour les raids plus difficiles.",
+      "categories": [
+        {
+          "name": "Armes",
+          "tiers": [
+            {
+              "tier": "SS",
+              "entries": [
+                {
+                  "name": "King of Curses (Évolué)",
+                  "role": "Dégâts de zone de fin de partie"
+                },
+                {
+                  "name": "Restless Gambler",
+                  "role": "Choix d'arme de premier ordre"
+                },
+                {
+                  "name": "Lawyer",
+                  "role": "Choix d'arme de premier ordre"
+                },
+                {
+                  "name": "Priest",
+                  "role": "Choix d'arme de premier ordre"
+                },
+                {
+                  "name": "King's Vessel",
+                  "role": "Choix d'arme de premier ordre"
+                },
+                {
+                  "name": "Feared Slayer",
+                  "role": "Choix d'arme de premier ordre"
+                }
+              ]
+            },
+            {
+              "tier": "S",
+              "entries": [
+                {
+                  "name": "Child of Sun",
+                  "role": "Arme de grande valeur"
+                },
+                {
+                  "name": "King of Ripper (Évolué)",
+                  "role": "Arme de grande valeur"
+                },
+                {
+                  "name": "Admiral",
+                  "role": "Arme de grande valeur"
+                },
+                {
+                  "name": "Shadow",
+                  "role": "Arme de grande valeur"
+                },
+                {
+                  "name": "Snowzuka",
+                  "role": "Arme de grande valeur"
+                },
+                {
+                  "name": "Quincy",
+                  "role": "Arme de grande valeur"
+                },
+                {
+                  "name": "King of Curses",
+                  "role": "Dégâts de zone et sur les boss"
+                },
+                {
+                  "name": "Mahito",
+                  "role": "Arme de grande valeur"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "entries": [
+                {
+                  "name": "One-Eyed Reaper",
+                  "role": "Arme pour tuer les boss"
+                },
+                {
+                  "name": "Umbrella",
+                  "role": "Arme de zone et de frame d'invincibilité défensive"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "entries": [
+                {
+                  "name": "Hawk Eye",
+                  "role": "Arme à distance et de contrôle de vague fiable"
+                }
+              ]
+            },
+            {
+              "tier": "C",
+              "entries": [
+                {
+                  "name": "King Ripper",
+                  "role": "Arme de début de partie qui perd en efficacité plus tard"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Équipement",
+          "tiers": [
+            {
+              "tier": "S",
+              "entries": [
+                {
+                  "name": "Time Stop",
+                  "role": "Contrôle d'équipe et préparation de burst"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "entries": [
+                {
+                  "name": "Coyote Pistol",
+                  "role": "DPS solo et pression à distance"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "entries": [
+                {
+                  "name": "Blood Hammer",
+                  "role": "Dégâts d'écrasement de zone"
+                },
+                {
+                  "name": "Heal",
+                  "role": "Soutien pour l'équipe ou runs solo plus sûrs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Traits",
+          "tiers": [
+            {
+              "tier": "S",
+              "entries": [
+                {
+                  "name": "Précision III",
+                  "effect": "+15% de dégâts de compétence"
+                },
+                {
+                  "name": "Fortune",
+                  "effect": "+15% d'or et d'EXP"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "entries": [
+                {
+                  "name": "Puissance III",
+                  "effect": "+15% de dégâts M1"
+                },
+                {
+                  "name": "Précision II",
+                  "effect": "+10% de dégâts de compétence"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "entries": [
+                {
+                  "name": "Chance de critique",
+                  "effect": "+5% de taux de critique"
+                },
+                {
+                  "name": "Précision I",
+                  "effect": "+5% de dégâts de compétence"
+                },
+                {
+                  "name": "Puissance II",
+                  "effect": "+10% de dégâts M1"
+                }
+              ]
+            },
+            {
+              "tier": "C",
+              "entries": [
+                {
+                  "name": "Puissance I",
+                  "effect": "+5% de dégâts M1"
+                },
+                {
+                  "name": "Juggernaut",
+                  "effect": "+50 PV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Accessoires et Éveil",
+          "tiers": [
+            {
+              "tier": "S",
+              "entries": [
+                {
+                  "name": "Agris Sword",
+                  "effect": "+75 PV et +20% de chances de critique",
+                  "obtainedFrom": "Terminer toutes les quêtes de Fiji"
+                },
+                {
+                  "name": "Strongest's Cape",
+                  "effect": "x2.0 de dégâts M1",
+                  "obtainedFrom": "Station d'artisanat"
+                },
+                {
+                  "name": "Divine Wheel",
+                  "effect": "+75 PV et x1.6 de dégâts de compétence",
+                  "obtainedFrom": "Station d'artisanat"
+                }
+              ]
+            },
+            {
+              "tier": "A",
+              "entries": [
+                {
+                  "name": "Royal Cape",
+                  "effect": "+50 PV",
+                  "obtainedFrom": "Gamepass VIP dans la boutique"
+                }
+              ]
+            },
+            {
+              "tier": "B",
+              "entries": [
+                {
+                  "name": "Scarf",
+                  "effect": "+25 PV",
+                  "obtainedFrom": "Station d'artisanat"
+                }
+              ]
+            },
+            {
+              "tier": "Awakening",
+              "entries": [
+                {
+                  "name": "Éveil d'Agris Sword",
+                  "effect": "Pic de puissance temporaire pour achever les boss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "animeFinalQuestBeginnerGuide": {
+      "title": "Guide du débutant Anime Final Quest",
+      "displayType": "step-by-step",
+      "eyebrow": "Commencez ici",
+      "subtitle": "Apprenez la boucle principale d'Anime Final Quest : terminez des donjons, battez des boss, récupérez du butin, obtenez de meilleures armes et équipements, rassemblez des runes, terminez des quêtes et lancez-vous dans des modes plus difficiles.",
+      "intro": "Anime Final Quest est un RPG de donjon par vagues sur Roblox. Les nouveaux joueurs doivent se concentrer sur l'accès au groupe, les commandes de base, le farming de donjons, le tirage d'armes et d'équipements, les améliorations de build basées sur les runes et les récompenses de quêtes initiales avant de chercher des équipements de fin de partie.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Rejoignez le groupe officiel et récupérez les codes",
+          "action": "Rejoignez le groupe Roblox d'Anime Final Quest, puis utilisez les codes actifs depuis le bouton Codes sur le côté droit de l'écran.",
+          "whyItMatters": "Les codes fournissent des tirages de départ, de l'or, de l'argent, des runes et des Raid Tickets pour faciliter le premier grind."
+        },
+        {
+          "step": 2,
+          "title": "Apprenez les commandes de base",
+          "action": "Utilisez M1 pour les attaques de base, 1-3 pour les compétences, 4 pour l'équipement, 5 pour la compétence ultime, Q pour le dash, G pour l'éveil, Ctrl pour le Shiftlock et la molette de la souris pour verrouiller la caméra.",
+          "whyItMatters": "Esquiver tout en attaquant vous permet de rester en vie pendant les vagues et les combats de boss."
+        },
+        {
+          "step": 3,
+          "title": "Terminez les donjons d'anime",
+          "action": "Combattez à travers les vagues de donjons, battez le boss à la fin et récupérez des Coins, du butin et des drops.",
+          "whyItMatters": "Terminer des donjons est la voie de base pour obtenir un meilleur équipement, plus de ressources et du contenu plus difficile."
+        },
+        {
+          "step": 4,
+          "title": "Tirez des armes et des équipements",
+          "action": "Utilisez les options d'armes et d'équipements dans le lobby pour dépenser des tirages pour obtenir de meilleures pièces d'équipement.",
+          "whyItMatters": "Les armes fournissent les dégâts principaux, tandis que l'équipement ajoute de l'utilité comme du contrôle, des dégâts de burst ou du soin."
+        },
+        {
+          "step": 5,
+          "title": "Utilisez des runes et des traits pour améliorer votre build",
+          "action": "Économisez les runes pour des traits précieux tels que les dégâts de compétence, les dégâts M1, le taux de critique ou les bonus de farming.",
+          "whyItMatters": "Un bon trait peut grandement améliorer une arme puissante, tandis que les relances aléatoires peuvent gaspiller des progrès utiles."
+        },
+        {
+          "step": 6,
+          "title": "Terminez les premières séries de quêtes",
+          "action": "Priorisez les récompenses de quêtes utiles comme la série de quêtes d'Agris, puis continuez à accomplir des quêtes pour obtenir des récompenses exclusives et faire progresser votre compte.",
+          "whyItMatters": "Les récompenses de quêtes aident à combler l'écart entre l'équipement de débutant et les configurations de donjon plus puissantes."
+        },
+        {
+          "step": 7,
+          "title": "Fabriquez des cosmétiques et cumulez les améliorations de compte",
+          "action": "Collectez les drops des donjons et utilisez les systèmes d'artisanat pour les cosmétiques et les accessoires lorsqu'ils sont disponibles.",
+          "whyItMatters": "Les améliorations fabriquées et les accessoires ajoutent de la survivabilité, du critique, des dégâts M1 ou des dégâts de compétence pour les combats plus difficiles."
+        }
+      ]
+    },
+    "animeFinalQuestWeaponsAndGear": {
+      "title": "Armes et équipements d'Anime Final Quest",
+      "displayType": "comparison-table",
+      "eyebrow": "Créateur d'équipement",
+      "subtitle": "Comparez les principales armes et pièces d'équipement d'Anime Final Quest par rôle, style de dégâts, utilité et valeur de progression.",
+      "intro": "Les armes sont la principale source de dégâts dans Anime Final Quest, tandis que l'équipement modifie la sécurité ou la rapidité avec laquelle vous éliminez les vagues et les boss. Utilisez ce tableau pour planifier si un tirage vaut la peine d'être conservé, amélioré ou remplacé à mesure que vous passez du farming de donjon de début de partie à des raids plus difficiles.",
+      "items": [
+        {
+          "name": "King of Curses",
+          "category": "Arme",
+          "tier": "SS une fois évolué / S de base",
+          "rarity": "Mythique",
+          "role": "Dégâts de zone (AOE), burst de boss et farming de fin de partie",
+          "damageStyle": "Attaques M1 rapides, World Cutting Slashes, Cleave Dance, Fire Arrows et Domain Expansion",
+          "utility": "+250 PV et une forte couverture de vagues",
+          "progressionValue": "Cible principale de fin de partie pour le farming de donjons Cauchemar"
+        },
+        {
+          "name": "Umbrella",
+          "category": "Arme",
+          "tier": "A",
+          "rarity": "Légendaire",
+          "role": "AOE à courte portée et élimination plus sûre des monstres",
+          "damageStyle": "Attaques rapides, étourdissement Octa Shredder, dégâts en ligne Rain Piercer et burst Thunderbrella",
+          "utility": "Les frames d'invincibilité aident à éviter les dégâts dangereux des boss ou des vagues",
+          "progressionValue": "Arme puissante de milieu à fin de partie pour les joueurs qui ont besoin à la fois de dégâts et de sécurité"
+        },
+        {
+          "name": "One-Eyed Reaper",
+          "category": "Arme",
+          "tier": "A",
+          "rarity": "Légendaire",
+          "role": "Tueur de boss et arme de mobilité",
+          "damageStyle": "Attaques de base plus lentes avec un fort burst et un ultime conçu pour les dégâts de boss",
+          "utility": "+200 PV et bursts de mobilité",
+          "progressionValue": "Utile pour les joueurs concentrés sur les boss avant d'obtenir de meilleures options SS"
+        },
+        {
+          "name": "Hawk Eye",
+          "category": "Arme",
+          "tier": "B",
+          "rarity": "Épique",
+          "role": "Poke à distance et nettoyage de vagues",
+          "damageStyle": "Kitchen Slicer, Triple Knife et ultime Ground Slam",
+          "utility": "Pression à distance sûre lorsque le timing est bien géré",
+          "progressionValue": "Arme correcte de début à milieu de partie en attendant de meilleurs tirages Légendaires ou Mythiques"
+        },
+        {
+          "name": "King Ripper",
+          "category": "Arme",
+          "tier": "C",
+          "rarity": "Rare",
+          "role": "Option de secours pour débuter",
+          "damageStyle": "Dégâts d'arme de base avec un faible scaling",
+          "utility": "Aucun avantage majeur en PV ou en utilité",
+          "progressionValue": "À remplacer rapidement dès que de meilleurs tirages sont disponibles"
+        },
+        {
+          "name": "Time Stop",
+          "category": "Équipement",
+          "tier": "S",
+          "rarity": "Mythique",
+          "role": "Contrôle d'équipe et préparation de burst",
+          "damageStyle": "Pas de focus sur les dégâts directs ; permet d'enchaîner les compétences et les ultimes",
+          "utility": "Gèle les ennemis pour la préparation, la fuite ou des fenêtres de burst coordonnées",
+          "progressionValue": "Idéal pour les parties en équipe organisée et le contrôle des donjons difficiles"
+        },
+        {
+          "name": "Coyote Pistol",
+          "category": "Équipement",
+          "tier": "A",
+          "rarity": "Légendaire",
+          "role": "DPS solo et pression à distance",
+          "damageStyle": "Rayons à longue portée qui explosent à l'impact et touchent plusieurs ennemis",
+          "utility": "Pression à faible temps de recharge pour kiter les vagues et les boss",
+          "progressionValue": "Excellent équipement solo lorsque les joueurs veulent maximiser le temps d'activité des dégâts plutôt que le contrôle de foule"
+        },
+        {
+          "name": "Blood Hammer",
+          "category": "Équipement",
+          "tier": "B",
+          "rarity": "Épique",
+          "role": "Burst AOE et réinitialisation de vague",
+          "damageStyle": "Frappe d'onde de choc avec des dégâts de zone étendus",
+          "utility": "Peut écraser des groupes, mais le temps de recharge limite l'utilisation répétée",
+          "progressionValue": "Bonne option AOE temporaire avant d'obtenir de meilleurs tirages d'équipement"
+        },
+        {
+          "name": "Heal",
+          "category": "Équipement",
+          "tier": "B",
+          "rarity": "Rare",
+          "role": "Soutien pour des parties en solo et en équipe plus sûres",
+          "damageStyle": "Pas de dégâts ; soutien par aura de soin",
+          "utility": "Restaure les PV du joueur et des alliés proches",
+          "progressionValue": "Utile lorsque la survie importe plus que la vitesse d'élimination"
+        }
+      ]
+    },
+    "animeFinalQuestTraitsRunesBuilds": {
+      "title": "Traits, runes et builds de Anime Final Quest",
+      "displayType": "card-list",
+      "eyebrow": "Optimisation de build",
+      "subtitle": "Planifiez vos relances (rerolls) autour des dégâts, de la vitesse de farm et de la survivabilité au lieu de brûler chaque ressource dès qu'elle apparaît.",
+      "intro": "Les builds de Anime Final Quest sont façonnés par une arme, un emplacement d'équipement, des traits, des accessoires, des runes et un éveil. Les configurations les plus fortes commencent par un choix d'arme et d'équipement fiable, puis utilisent des traits et des accessoires pour multiplier les dégâts de compétence, les dégâts M1 ou la valeur de farm.",
+      "items": [
+        {
+          "icon": "Crosshair",
+          "title": "Précision III",
+          "category": "Trait",
+          "effect": "+15% de dégâts de compétence",
+          "priority": "À garder pour le end-game",
+          "bestFor": "Nettoyage en Cauchemar, dégâts de boss et armes axées sur les compétences.",
+          "keepOrReroll": "À garder une fois que votre arme est assez forte pour que les dégâts de compétence comptent."
+        },
+        {
+          "icon": "Coins",
+          "title": "Fortune",
+          "category": "Trait",
+          "effect": "+15% d'or et d'EXP",
+          "priority": "À garder pour la progression",
+          "bestFor": "Farm en début et milieu de jeu tout en accumulant de l'or, des niveaux, des tirages (spins) et des ressources de compte.",
+          "keepOrReroll": "À garder pendant le farm, puis à remplacer plus tard lorsque les dégâts bruts deviennent plus précieux."
+        },
+        {
+          "icon": "Zap",
+          "title": "Puissance III",
+          "category": "Trait",
+          "effect": "+15% de dégâts M1",
+          "priority": "Excellente alternative",
+          "bestFor": "Builds d'attaque de base, en particulier avec la Strongest's Cape et des armes avec un fort scaling M1.",
+          "keepOrReroll": "À garder pour le farm axé sur le M1 ou lorsque les traits de dégâts de compétence ne sont pas disponibles."
+        },
+        {
+          "icon": "Target",
+          "title": "Chances de coup critique",
+          "category": "Trait",
+          "effect": "+5% de chances de critique",
+          "priority": "Trait de combo",
+          "bestFor": "Builds axés sur les boss qui utilisent également Agris Sword pour ses +20% de chances de critique.",
+          "keepOrReroll": "À garder si votre configuration utilise déjà Agris Sword, sinon donnez la priorité aux traits de Précision ou de Puissance."
+        },
+        {
+          "icon": "Gem",
+          "title": "Règle de dépense des runes",
+          "category": "Économie des runes",
+          "effect": "Les runes soutiennent l'amélioration des traits et des builds",
+          "priority": "Contrôle des ressources",
+          "bestFor": "Joueurs qui ont déjà une arme stable, un emplacement d'équipement et une route de farm de donjon.",
+          "keepOrReroll": "Dépensez les runes après que l'équipement de base soit utilisable ; chercher des traits parfaits trop tôt ralentit la progression."
+        },
+        {
+          "icon": "Wand2",
+          "title": "Build de dégâts de compétence",
+          "category": "Modèle de build",
+          "effect": "King of Curses + Précision III + Divine Wheel + Agris Sword",
+          "priority": "Cœur de dégâts méta",
+          "bestFor": "Nettoyage de donjon de zone (AOE), phases de boss et runs de haute difficulté.",
+          "keepOrReroll": "Utilisez Time Stop pour le jeu en équipe ou Coyote Pistol pour les dégâts en solo."
+        },
+        {
+          "icon": "Hand",
+          "title": "Build de dégâts M1",
+          "category": "Modèle de build",
+          "effect": "Strongest's Cape + Puissance III + attaques de base rapides",
+          "priority": "Cœur de farm fiable",
+          "bestFor": "Nettoyage régulier lorsque les compétences sont en temps de recharge.",
+          "keepOrReroll": "Fonctionne bien avant de passer complètement à l'optimisation des dégâts de compétence avec Précision III."
+        },
+        {
+          "icon": "Layers",
+          "title": "Cumul d'accessoires",
+          "category": "Cœur d'accessoires",
+          "effect": "Agris Sword, Strongest's Cape, Divine Wheel, Royal Cape et Scarf ajoutent de la valeur ensemble",
+          "priority": "À ne pas ignorer",
+          "bestFor": "Cumuler les multiplicateurs de dégâts, les chances de coup critique et les bonus de points de vie sur l'ensemble du compte.",
+          "keepOrReroll": "Fabriquez et collectionnez des accessoires au lieu de traiter les cosmétiques comme de simples récompenses visuelles."
+        }
+      ]
+    },
+    "animeFinalQuestDungeonsBossesRaids": {
+      "title": "Donjons, boss et raids de Anime Final Quest",
+      "displayType": "accordion",
+      "eyebrow": "Progression de donjon",
+      "subtitle": "Utilisez les donjons pour obtenir des butins, fabriquer de meilleures armes et équipements, et passer à des boss plus difficiles avec un véritable plan.",
+      "intro": "La boucle principale est simple : nettoyez les donjons d'anime, battez les vagues et les boss, récupérez les butins, fabriquez des cosmétiques, rassemblez des runes et améliorez le build pour du contenu plus difficile. Des armes plus fortes, des équipements utiles et de meilleurs choix de traits transforment les nettoyages lents en routes de farm répétables.",
+      "items": [
+        {
+          "icon": "RefreshCw",
+          "title": "Boucle principale de donjon",
+          "summary": "Nettoyez les vagues, battez le boss, récupérez le butin et utilisez les récompenses pour améliorer les armes, l'équipement, les traits et les cosmétiques.",
+          "tags": [
+            "Boucle principale",
+            "Farm"
+          ],
+          "details": [
+            "Combattez à travers les donjons d'anime avec des attaques M1, des compétences, de l'équipement, une compétence ultime, des esquives (dash) et des outils d'éveil.",
+            "Obtenez des armes et de l'équipement grâce aux systèmes de progression, puis utilisez les butins et les runes pour renforcer le build.",
+            "Répétez les donjons plus faciles jusqu'à ce que votre équipement soit prêt pour les difficultés Difficile et Cauchemar."
+          ]
+        },
+        {
+          "icon": "Gauge",
+          "title": "Chemin de difficulté",
+          "summary": "Commencez en Normal, passez en Difficile après avoir obtenu une arme stable, et farmez en Cauchemar lorsque le build permet de nettoyer en toute sécurité.",
+          "tags": [
+            "Normal",
+            "Difficile",
+            "Cauchemar"
+          ],
+          "details": [
+            "Le mode Normal sert à apprendre les patterns des ennemis et à collecter les premiers matériaux.",
+            "Le mode Difficile est la passerelle pour les exigences de quêtes plus élevées, y compris les victoires contre le Golem Boss.",
+            "Le mode Cauchemar offre une meilleure valeur de farm une fois que le joueur a suffisamment de dégâts, de survivabilité et de mobilité."
+          ]
+        },
+        {
+          "icon": "Skull",
+          "title": "Pattern de combat de boss",
+          "summary": "Considérez les boss comme des tests de mouvement, et pas seulement comme des sacs à PV.",
+          "tags": [
+            "Boss",
+            "Mouvement"
+          ],
+          "details": [
+            "Utilisez quelques attaques M1, puis esquivez (dash) sur le côté pour éviter les contre-attaques.",
+            "Gardez vos phases de burst pour Time Stop, l'éveil d'Agris (Agris Awakening) ou les ouvertures sûres des boss.",
+            "Donnez la priorité à la survie plutôt que de lancer toutes vos compétences dans une mauvaise position."
+          ]
+        },
+        {
+          "icon": "Ticket",
+          "title": "Utilisation des Raid Tickets",
+          "summary": "Les Raid Tickets apparaissent comme des récompenses de progression et de code, ils doivent donc être traités comme des ressources limitées.",
+          "tags": [
+            "Raids",
+            "Tickets"
+          ],
+          "details": [
+            "Construisez une base d'arme et d'équipement plus solide avant de dépenser de grandes piles de tickets.",
+            "Utilisez les tickets lorsque le compte peut déjà nettoyer du contenu plus difficile sans gaspiller d'essais.",
+            "Associez l'utilisation des tickets à des traits de dégâts, des équipements utiles et des accessoires pour obtenir une meilleure valeur par run."
+          ]
+        },
+        {
+          "icon": "Users",
+          "title": "Configuration de nettoyage en équipe",
+          "summary": "Les runs en équipe bénéficient du contrôle, du soin et des fenêtres de récupération.",
+          "tags": [
+            "Coop",
+            "Équipe"
+          ],
+          "details": [
+            "Time Stop est le principal choix d'équipement de contrôle d'équipe pour maintenir les vagues en place.",
+            "Le soin soutient les combats de boss plus longs et les donjons plus difficiles.",
+            "Coyote Pistol est plus fort pour les joueurs solo qui ont besoin de dégâts directs rapides."
+          ]
+        },
+        {
+          "icon": "ListChecks",
+          "title": "Liste de contrôle pour nettoyage rapide",
+          "summary": "Un nettoyage plus rapide provient de moins de mouvements inutiles, d'un meilleur ciblage et d'un build adapté au donjon.",
+          "tags": [
+            "Vitesse",
+            "Efficacité"
+          ],
+          "details": [
+            "Regroupez les ennemis avant d'utiliser des compétences de zone (AOE).",
+            "Éliminez rapidement les ennemis à distance afin qu'ils ne grignotent pas vos points de vie pendant les regroupements.",
+            "Farmez une carte jusqu'à ce que les patterns des ennemis deviennent prévisibles, puis augmentez la difficulté."
+          ]
+        }
+      ]
+    },
+    "animeFinalQuestQuestsDropsCosmetics": {
+      "title": "Quêtes, drops et cosmétiques d'Anime Final Quest",
+      "displayType": "quest-cards",
+      "eyebrow": "Quêtes et récompenses",
+      "subtitle": "Suivez les objectifs de quête utiles, les drops de donjon et les statistiques cosmétiques qui transforment les complétions répétées en progression visible du compte.",
+      "intro": "Anime Final Quest lie la progression aux quêtes, aux drops de donjon, aux cosmétiques fabriquables et aux récompenses d'éveil. Le chemin de récompense de Fiji et Agris est particulièrement utile car il pousse les joueurs à travers les donjons, les éliminations de boss, les complétions en Cauchemar, la fabrication et les objectifs de coopération.",
+      "items": [
+        {
+          "icon": "Sparkles",
+          "name": "Début du déverrouillage d'Agris",
+          "type": "Quête d'éveil",
+          "objective": "Parlez au PNJ de quête de Fiji dans le HUB près de la statue d'Agris et choisissez le dialogue de déverrouillage.",
+          "reward": "Ouvre la suite de quêtes d'Agris et mène à la récompense de compétence ultime d'Agris.",
+          "howToComplete": "Atteignez le niveau 5+, puis commencez la suite de quêtes depuis le HUB."
+        },
+        {
+          "icon": "Castle",
+          "name": "Terminer 20 donjons",
+          "type": "Quête de donjon",
+          "objective": "Terminer 20 donjons.",
+          "reward": "4 tirages chanceux d'arme",
+          "howToComplete": "Utilisez ceci comme suivi de progression principal tout en farmant des matériaux et en apprenant les patterns des ennemis."
+        },
+        {
+          "icon": "Swords",
+          "name": "Tuer 500 ennemis",
+          "type": "Quête de combat",
+          "objective": "Vaincre 500 ennemis à travers les donjons.",
+          "reward": "10K d'or",
+          "howToComplete": "Farmez des donjons répétables avec une arme qui élimine rapidement les groupes."
+        },
+        {
+          "icon": "Skull",
+          "name": "Tuer le boss Golem en mode Difficile 3 fois",
+          "type": "Quête de boss",
+          "objective": "Vaincre le boss Golem trois fois en difficulté Difficile.",
+          "reward": "3 tirages d'équipement normaux",
+          "howToComplete": "Apportez une arme stable, esquivez les attaques du boss et répétez les complétions en mode Difficile."
+        },
+        {
+          "icon": "Moon",
+          "name": "Terminer 3 donjons en Cauchemar",
+          "type": "Quête de difficulté",
+          "objective": "Terminer trois donjons en difficulté Cauchemar.",
+          "reward": "3 runes",
+          "howToComplete": "Tentez cela après que votre build a des dégâts plus importants, un emplacement d'équipement utile et assez de survivabilité."
+        },
+        {
+          "icon": "Users",
+          "name": "Jouer à Summon Gate avec 1 autre personne",
+          "type": "Quête coopérative",
+          "objective": "Terminer Summon Gate, le premier donjon, avec un joueur supplémentaire.",
+          "reward": "2 tirages d'arme normaux",
+          "howToComplete": "Rejoignez la file d'attente avec un coéquipier et terminez le donjon ensemble."
+        },
+        {
+          "icon": "Hammer",
+          "name": "Fabriquer la cape la plus forte",
+          "type": "Quête d'artisanat",
+          "objective": "Fabriquer la cape du plus fort à partir de matériaux de donjon.",
+          "reward": "2 runes",
+          "howToComplete": "Utilisez 1x Cœur de Golem, 4x Poils de singe et 5x Pièces d'armure de gobelin à la station d'artisanat.",
+          "drops": [
+            "Cœur de Golem : Summon Gate",
+            "Pièce d'armure de gobelin : Summon Gate",
+            "Poils de singe : Summon Station 1"
+          ]
+        },
+        {
+          "icon": "Star",
+          "name": "Terminer Summon Station 1 avec une arme légendaire",
+          "type": "Quête d'exigence d'arme",
+          "objective": "Terminer Summon Station 1, le deuxième donjon, avec une arme légendaire en mode Difficile.",
+          "reward": "3 tirages d'équipement chanceux",
+          "howToComplete": "Faites un tirage ou améliorez une arme pour obtenir une arme légendaire d'abord, puis lancez le deuxième donjon en Difficile."
+        },
+        {
+          "icon": "Medal",
+          "name": "Terminer Summon Station 2 avec une arme épique",
+          "type": "Quête d'exigence d'arme",
+          "objective": "Terminer Summon Station 2, le troisième donjon, avec une arme épique en mode Normal.",
+          "reward": "6K d'or",
+          "howToComplete": "Équipez une arme épique avant de commencer le troisième donjon en Normal."
+        },
+        {
+          "icon": "Crown",
+          "name": "Cosmétique de l'épée d'Agris",
+          "type": "Récompense cosmétique",
+          "objective": "Terminez le chemin de récompense d'Agris pour ajouter le cosmétique de l'épée d'Agris au build.",
+          "reward": "+75 points de vie et +20% de chances de coup critique",
+          "howToComplete": "Utilisez-le comme un cosmétique améliorant les statistiques ; il change l'apparence de l'arme tandis que l'arme équipée conserve ses propres compétences de base."
+        }
+      ]
+    },
+    "animeFinalQuestDiscordOfficialLinks": {
+      "title": "Discord et liens officiels de Anime Final Quest",
+      "displayType": "link-hub",
+      "eyebrow": "Sources officielles",
+      "subtitle": "Utilisez les sources officielles Roblox, Discord, Trello et les vidéos des développeurs pour suivre les mises à jour, la mécanique, les codes et les annonces de la communauté.",
+      "intro": "Anime Final Quest change souvent, le moyen le plus sûr de rester à jour est donc de regrouper les liens officiels. Ce hub oriente les joueurs vers l'expérience Roblox en direct, la communauté officielle Roblox, le serveur Discord, le tableau d'information Trello et la chaîne YouTube de CELL GAMES.",
+      "items": [
+        {
+          "icon": "Gamepad2",
+          "label": "Jouer à Anime Final Quest",
+          "type": "Expérience Roblox",
+          "href": "https://www.roblox.com/games/100744519298647/Anime-Final-Quest",
+          "useCase": "Lancez le jeu, vérifiez le titre de la mise à jour actuelle, lisez la description officielle du jeu et consultez les commandes.",
+          "bestFor": "Jouer, vérifier les mises à jour et obtenir des informations de base sur le jeu."
+        },
+        {
+          "icon": "Users",
+          "label": "Communauté Roblox de Anime Final Quest",
+          "type": "Groupe Roblox",
+          "href": "https://www.roblox.com/communities/34258454/Anime-Final-Quest",
+          "useCase": "Rejoignez le groupe officiel du jeu lié aux codes et aux mises à jour de la communauté.",
+          "bestFor": "Conditions pour les codes, annonces du groupe et identité officielle de la communauté."
+        },
+        {
+          "icon": "MessageCircle",
+          "label": "Discord de Anime Final Quest",
+          "type": "Serveur Discord",
+          "href": "https://discord.com/invite/finalquest",
+          "useCase": "Suivez les publications des développeurs, les salons de codes, les notes de mise à jour, les rapports de bugs et les discussions entre joueurs.",
+          "bestFor": "Mises à jour communautaires les plus rapides et annonces en direct."
+        },
+        {
+          "icon": "SquareStack",
+          "label": "Trello d'information de Anime Final Quest",
+          "type": "Tableau Trello",
+          "href": "https://trello.com/b/sfBbkpv2/anime-final-quest-information",
+          "useCase": "Consultez les informations organisées du jeu telles que la mécanique, les objets, les armes, l'équipement, les traits et les références de mise à jour.",
+          "bestFor": "Navigation structurée dans les références."
+        },
+        {
+          "icon": "Video",
+          "label": "CELL GAMES YouTube",
+          "type": "Source vidéo des développeurs",
+          "href": "https://www.youtube.com/@CELLGAMESROBLOX",
+          "useCase": "Regardez les aperçus officiels et les vidéos des développeurs pour Anime Final Quest.",
+          "bestFor": "Aperçus visuels des mises à jour et médias côté développeurs."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Foire aux",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur Anime Final Quest",
+    "questions": [
+      {
+        "question": "Que sont les codes Anime Final Quest ?",
+        "answer": "Les codes Anime Final Quest sont des codes gratuits à utiliser qui offrent des Weapon Lucky Spins, Gear Lucky Spins, de l'or, de l'argent, des Runes et des Raid Tickets pour vous aider à obtenir de meilleurs équipements et progresser plus vite."
+      },
+      {
+        "question": "Comment utiliser les codes dans Anime Final Quest ?",
+        "answer": "Rejoignez le groupe Roblox officiel de Anime Final Quest, ouvrez le jeu, cliquez sur le bouton Codes sur le côté droit de l'écran, collez votre code et appuyez sur Confirmer pour récupérer vos récompenses."
+      },
+      {
+        "question": "Est-ce que Anime Final Quest est gratuit ?",
+        "answer": "Oui. Anime Final Quest est un dungeon crawler d'anime gratuit sur Roblox. Vous pouvez y jouer directement via l'application Roblox sur PC, mobile et consoles compatibles sans aucun achat."
+      },
+      {
+        "question": "Comment obtenir de meilleures armes dans Anime Final Quest ?",
+        "answer": "Dépensez des Weapon Lucky Spins dans le lobby, terminez des donjons pour obtenir des butins et des ressources, économisez des Runes pour des traits précieux et utilisez les codes Anime Final Quest pour obtenir des lancers supplémentaires afin d'avoir des armes plus puissantes."
+      },
+      {
+        "question": "Dois-je rejoindre le groupe Anime Final Quest pour utiliser les codes ?",
+        "answer": "Oui. Les codes Anime Final Quest nécessitent que vous rejoigniez le groupe Roblox officiel avant de pouvoir réclamer des récompenses en jeu, alors rejoignez le groupe avant d'utiliser un code."
+      },
+      {
+        "question": "Quelle est la meilleure façon de commencer Anime Final Quest ?",
+        "answer": "Les nouveaux joueurs de Anime Final Quest devraient rejoindre le groupe, utiliser les codes, apprendre les commandes de base, terminer des donjons d'anime, obtenir des armes et de l'équipement, utiliser des Runes et des Traits, et terminer les premières séries de quêtes pour une progression stable."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à jouer à Anime Final Quest ?",
+    "description": "Rejoignez la communauté Anime Final Quest sur Discord et Roblox pour obtenir des codes, des guides, des mises à jour et participer aux discussions !",
+    "joinCommunity": "Rejoindre Discord",
+    "joinGame": "Jouer sur Roblox"
+  },
+  "footer": {
+    "title": "Wiki Anime Final Quest",
+    "description": "Votre hub de ressources complet pour les codes, armes, équipements, builds, donjons, boss, runes et guides de quêtes de Anime Final Quest.",
+    "resources": "Ressources",
+    "community": "Communauté",
+    "legal": "Légal",
+    "discord": "Discord",
+    "youtube": "YouTube",
+    "robloxGroup": "Groupe Roblox",
+    "robloxGame": "Jouer sur Roblox",
+    "about": "À propos",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "copyrightNotice": "Droit d'auteur",
+    "copyright": "© 2026 Wiki Anime Final Quest. Non affilié à CELL GAMES ou Roblox Corporation.",
+    "disclaimer": "Site de ressources non officiel créé par des fans."
+  },
+  "pages": {
+    "codes": {
+      "title": "Codes Anime Final Quest",
+      "description": "Derniers codes Anime Final Quest actifs pour obtenir des Weapon Lucky Spins, Gear Lucky Spins, de l'Or, des Runes et des Raid Tickets gratuits, ainsi que les étapes exactes d'activation en jeu.",
+      "metaTitle": "Codes Anime Final Quest - Spins gratuits, Or & Runes",
+      "metaDescription": "Réclamez des codes Anime Final Quest actifs pour obtenir des Weapon Lucky Spins, Gear Lucky Spins, de l'Or, des Runes et des Raid Tickets gratuits. Mis à jour avec les codes fonctionnels et toutes les étapes d'activation.",
+      "categoryLabel": "CODES D'ACTIVATION",
+      "whatIs": "Que sont les codes Anime Final Quest ?",
+      "whatIsDescription": "Les codes Anime Final Quest sont des codes promotionnels gratuits publiés par les développeurs qui offrent des Weapon Lucky Spins, Gear Lucky Spins, de l'Or, de l'argent, des Runes et des Raid Tickets. La plupart des codes nécessitent de rejoindre le groupe Roblox officiel avant de les utiliser, et chaque code expire avec le temps au fil des nouvelles mises à jour.",
+      "why": "Pourquoi utiliser les codes Anime Final Quest ?",
+      "whySteps": {
+        "step1Title": "Spins d'armes et d'équipements gratuits",
+        "step1Description": "Les codes offrent des Lucky Spins pour vous permettre d'obtenir des armes et des équipements plus puissants sans dépenser vos propres ressources.",
+        "step2Title": "Or et Runes supplémentaires",
+        "step2Description": "Activez des codes pour obtenir de l'Or et des Runes afin d'accélérer les relances de traits, les améliorations de builds et la progression de votre compte.",
+        "step3Title": "Progression de début de jeu plus rapide",
+        "step3Description": "Cumulez les récompenses des codes avec le farming de donjons pour terminer rapidement le contenu de début de jeu et atteindre plus vite les modes Difficile et Cauchemar."
+      },
+      "featured": "À la une & Essentiel",
+      "all": "Tous les codes"
+    },
+    "tier-list": {
+      "title": "Tier List Anime Final Quest",
+      "description": "Comparez les armes, équipements, passifs et améliorations de forge les plus puissants d'Anime Final Quest pour terminer les donjons, infliger des dégâts aux boss et apporter de l'utilité à votre équipe.",
+      "metaTitle": "Tier List Anime Final Quest - Armes, équipements & passifs",
+      "metaDescription": "Classez les meilleurs armes, équipements, passifs et améliorations de forge d'Anime Final Quest. Trouvez des configurations de rang S pour terminer les donjons, infliger des dégâts aux boss et réussir les raids les plus difficiles.",
+      "categoryLabel": "TIER LISTS",
+      "whatIs": "Qu'est-ce que la Tier List Anime Final Quest ?",
+      "whatIsDescription": "La tier list Anime Final Quest classe les armes, les équipements, les passifs et les améliorations de forge selon leur efficacité dans les donjons, les combats de boss et le jeu en équipe. Les rangs supérieurs permettent de terminer les donjons plus rapidement, s'adaptent mieux au contenu de fin de jeu et s'associent bien avec des traits et accessoires puissants.",
+      "why": "Pourquoi suivre la tier list Anime Final Quest ?",
+      "whySteps": {
+        "step1Title": "Obtenez les bonnes armes en priorité",
+        "step1Description": "Concentrez vos tirages sur les armes de rang S qui maximiseront vos dégâts dans les donjons en mode Normal, Difficile et Cauchemar.",
+        "step2Title": "Choisissez un équipement adapté à votre rôle",
+        "step2Description": "Choisissez des équipements de contrôle, de burst ou de soutien selon que vous jouez en solo ou en équipe.",
+        "step3Title": "Créez votre build autour des passifs et de la forge",
+        "step3Description": "Cumulez les passifs et les améliorations de forge qui multiplient les dégâts des compétences, les dégâts M1 ou la survivabilité."
+      },
+      "featured": "À la une & Essentiel",
+      "all": "Toutes les tier lists"
+    },
+    "guide": {
+      "title": "Guide Anime Final Quest",
+      "description": "Guides complets d'Anime Final Quest couvrant la configuration de départ, les commandes, la montée en niveau, les parcours de progression et le farming de donjons pour chaque étape du jeu.",
+      "metaTitle": "Guide Anime Final Quest - Débutant, progression & niveau",
+      "metaDescription": "Maîtrisez Anime Final Quest grâce aux guides pour débutants, aux commandes, aux itinéraires de niveau, au farming d'XP, au déverrouillage du Monde 2 et aux parcours de progression complets pour les joueurs Roblox.",
+      "categoryLabel": "GUIDES DE JEU",
+      "whatIs": "Qu'est-ce que le guide Anime Final Quest ?",
+      "whatIsDescription": "La collection de guides Anime Final Quest vous accompagne dans la boucle de jeu principale : rejoindre le groupe officiel, activer les codes, apprendre les commandes, terminer les donjons d'anime, obtenir des armes et des équipements, et progresser de votre première victoire vers du contenu plus difficile.",
+      "why": "Pourquoi lire les guides Anime Final Quest ?",
+      "whySteps": {
+        "step1Title": "Commencez avec la bonne configuration",
+        "step1Description": "Rejoignez le groupe officiel Roblox, activez les codes et apprenez les commandes de base avant votre premier donjon.",
+        "step2Title": "Montez en niveau et farmez efficacement",
+        "step2Description": "Suivez des itinéraires d'XP et des parcours de farming de donjons éprouvés pour monter de niveau rapidement et déverrouiller le Monde 2.",
+        "step3Title": "Planifiez votre progression",
+        "step3Description": "Utilisez des guides de progression étape par étape pour passer de débutant à pro sans gaspiller vos tirages ou vos runes."
+      },
+      "featured": "À la une & Essentiel",
+      "all": "Tous les guides"
+    },
+    "weapons": {
+      "title": "Armes Anime Final Quest",
+      "description": "Guides détaillés des armes d'Anime Final Quest couvrant les compétences, le style de dégâts, la rareté et la façon dont chaque arme s'intègre dans votre configuration pour les donjons et les boss.",
+      "metaTitle": "Armes Anime Final Quest - Compétences, builds & classements",
+      "metaDescription": "Parcourez les guides d'armes Anime Final Quest pour découvrir les compétences, les styles de dégâts, la rareté et les configurations de build. Trouvez les meilleures armes pour terminer les donjons, combattre les boss et optimiser vos équipements de fin de jeu.",
+      "categoryLabel": "ARMES",
+      "whatIs": "Que sont les armes Anime Final Quest ?",
+      "whatIsDescription": "Les armes d'Anime Final Quest sont la principale source de dégâts de chaque configuration. Chaque arme possède ses propres attaques M1, compétences, un ultime et un éveil qui définissent sa manière de nettoyer les donjons et de combattre les boss. Les armes les plus fortes s'obtiennent via les Lucky Spins et évoluent vers des formes plus puissantes.",
+      "why": "Pourquoi étudier les armes Anime Final Quest ?",
+      "whySteps": {
+        "step1Title": "Adaptez les armes à votre style de jeu",
+        "step1Description": "Choisissez des armes de zone (AOE) pour éliminer les vagues d'ennemis ou des armes de burst pour infliger des dégâts aux boss selon votre style de jeu.",
+        "step2Title": "Connaissez les compétences de chaque arme",
+        "step2Description": "Apprenez les enchaînements M1, les rotations de compétences et le timing d'éveil pour maximiser vos dégâts.",
+        "step3Title": "Planifiez les évolutions et les améliorations",
+        "step3Description": "Comprenez quelles armes évoluent et lesquelles valent la peine d'être conservées, améliorées ou remplacées."
+      },
+      "featured": "À la une & Essentiel",
+      "all": "Toutes les armes"
+    },
+    "bosses": {
+      "title": "Boss Anime Final Quest",
+      "description": "Guides des boss d'Anime Final Quest couvrant les emplacements d'apparition, les patterns d'attaque, les butins et les meilleurs builds pour chaque boss et rencontre de raid.",
+      "metaTitle": "Boss Anime Final Quest - Emplacements, patterns & butins",
+      "metaDescription": "Battez tous les boss d'Anime Final Quest grâce aux guides sur les emplacements d'apparition, les patterns d'attaque, les butins, les tactiques de raid et les meilleurs builds pour les combats en solo et en équipe.",
+      "categoryLabel": "BOSS",
+      "whatIs": "Que sont les boss Anime Final Quest ?",
+      "whatIsDescription": "Les boss d'Anime Final Quest sont les principaux défis de combat dans les donjons et les raids. Chaque boss a des conditions d'apparition, des patterns d'attaque et des butins uniques, et les affrontements les plus difficiles comme les donjons Cauchemar et les boss de raid permettent d'obtenir les armes, équipements et ressources les plus rares.",
+      "why": "Pourquoi apprendre les combats de boss d'Anime Final Quest ?",
+      "whySteps": {
+        "step1Title": "Trouvez les emplacements d'apparition des boss",
+        "step1Description": "Découvrez où et quand chaque boss apparaît afin de planifier des itinéraires de farming efficaces.",
+        "step2Title": "Anticipez les patterns d'attaque",
+        "step2Description": "Esquivez les attaques des boss, gérez le timing de vos phases de burst et restez en vie lors des longs combats.",
+        "step3Title": "Ciblez les meilleurs butins",
+        "step3Description": "Concentrez-vous sur les boss qui abandonnent les armes, les équipements et les matériaux dont votre build a réellement besoin."
+      },
+      "featured": "À la une & Essentiel",
+      "all": "Tous les boss"
+    },
+    "evolution": {
+      "title": "Anime Final Quest Évolution",
+      "description": "Guides d'évolution et d'éveil d'Anime Final Quest couvrant les quêtes de déblocage, les taux de spin, les mécaniques de pity et les armes évoluées les plus puissantes de la méta.",
+      "metaTitle": "Anime Final Quest Évolution - Éveils & Armes Évoluées",
+      "metaDescription": "Débloquez les évolutions et les éveils d'Anime Final Quest grâce à des guides sur les quêtes, les taux de spin, les mécaniques de pity et les armes évoluées les plus puissantes pour les équipements de fin de jeu.",
+      "categoryLabel": "ÉVOLUTIONS",
+      "whatIs": "Qu'est-ce que l'Évolution dans Anime Final Quest ?",
+      "whatIsDescription": "L'évolution dans Anime Final Quest améliore une arme de base en une forme évoluée plus puissante avec de nouvelles compétences, des dégâts plus élevés et une meilleure progression. Les évolutions sont débloquées via des quêtes, des spins et des mécaniques de pity, et les armes évoluées définissent souvent la méta de fin de jeu.",
+      "why": "Pourquoi chercher à obtenir les évolutions d'Anime Final Quest ?",
+      "whySteps": {
+        "step1Title": "Débloquer les quêtes d'évolution",
+        "step1Description": "Terminez les quêtes et remplissez les conditions requises pour débloquer la forme évoluée de chaque arme.",
+        "step2Title": "Comprendre les taux de spin et la pity",
+        "step2Description": "Découvrez les taux de spin et les mécaniques de pity pour savoir combien de tentatives nécessite une évolution.",
+        "step3Title": "Créer des builds autour des armes évoluées",
+        "step3Description": "Associez les armes évoluées avec les bons équipements, traits et accessoires pour un maximum de dégâts."
+      },
+      "featured": "À la une & Essentiels",
+      "all": "Toutes les évolutions"
+    }
+  }
+}
