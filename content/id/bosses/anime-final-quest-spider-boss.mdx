@@ -1,0 +1,176 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Bos Laba-laba Anime Final Quest: Taktik Solo & Tim Terbaik",
+  description: "Kalahkan bos laba-laba Anime Final Quest dengan panduan ini. Pelajari mekanik bos, senjata yang direkomendasikan, build perlengkapan, dan drop eksklusif.",
+  category: "Panduan",
+  image: "https://placehold.co/800x400/1e1b4b/fff?text=Spider+Boss+Guide",
+  date: "2026-06-28",
+  author: "Tim Wiki anime final quest"
+}
+
+<Callout type="info" title="Panduan Cepat">
+- **Target utama**: Mengalahkan **bos laba-laba anime final quest** membutuhkan mobilitas tinggi dan damage area-of-effect (AOE) yang kuat.
+- **Mekanik utama**: Hindari serangan Web Spit, yang membatasi pergerakan Anda dan menonaktifkan kemampuan Dash (Melesat).
+- **Senjata terbaik**: King of Curses (Evolved) memberikan crowd control dan burst damage terbaik untuk pertempuran ini.
+- **Perlengkapan penting**: Gunakan perlengkapan Time Stop untuk permainan tim, atau perlengkapan Coyote Pistol untuk output damage solo.
+- **Aksesori terbaik**: Melengkapi kosmetik Agris Sword menambahkan bonus tingkat serangan kritis (critical strike rate) yang sangat besar untuk mempersingkat pertarungan.
+</Callout>
+
+<Section icon={Map} title="Lokasi Dungeon dan Persyaratan Masuk">
+
+Untuk menantang **bos laba-laba anime final quest**, pemain harus pergi ke Arachnid Nest Dungeon, yang terbuka setelah menyelesaikan misi pendahuluan Fiji di hub utama. Pertemuan ini berfungsi sebagai gerbang progresi utama, menguji kemampuan Anda untuk menangani serangan target tunggal berdamage tinggi dan segerombolan musuh kecil. Mempersiapkan karakter Anda dengan level, senjata, dan perlengkapan (gears) yang tepat sangat penting sebelum menggunakan Tiket Raid Anda yang berharga.
+
+Dungeon ini dapat diakses dalam tiga tingkat kesulitan yang berbeda, masing-masing berskala dalam hal darah musuh, output damage, dan kualitas hadiah yang dijatuhkan setelah selesai.
+
+| Kesulitan | Level yang Direkomendasikan | Hadiah Utama | Biaya Tiket |
+| :--- | :--- | :--- | :--- |
+| **Normal** | Level 15+ | Senjata Langka, Gold, Rune Dasar | 1 Tiket Raid |
+| **Hard** | Level 35+ | Perlengkapan Legendaris, Rune Langka, Bahan Crafting | 1 Tiket Raid |
+| **Nightmare** | Level 55+ | Bahan Crafting Mitos, Rune Tingkat Tinggi | 2 Tiket Raid |
+
+<Callout type="warning" title="Penghematan Tiket Raid">
+Selalu pastikan karakter Anda memenuhi atau melebihi level yang direkomendasikan sebelum memasuki tingkat kesulitan Nightmare. Menyia-nyiakan Tiket Raid pada upaya yang gagal akan sangat memperlambat progresi endgame Anda.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Pola Serangan dan Mekanik Bos Laba-laba">
+
+Pertarungan melawan bos laba-laba sangat dinamis, menampilkan campuran serangan proyektil, bahaya di tanah, dan pemanggilan kroco (minion). Memahami mekanik ini adalah pembeda antara kemenangan yang bersih dan kekalahan instan. Bos menggunakan empat kemampuan utama sepanjang pertarungan, yang kecepatannya dan agresivitasnya akan meningkat seiring berkurangnya sisa darah (HP) bos.
+
+| Nama Serangan | Deskripsi | Strategi Konter | Tingkat Bahaya |
+| :--- | :--- | :--- | :--- |
+| **Web Spit** | Menembakkan tiga proyektil jaring yang memperlambat pemain dan menonaktifkan Dash | Gunakan skill iframe dari senjata Umbrella atau menghindar ke samping | Tinggi |
+| **Venom Puddle** | Menyemburkan racun yang menciptakan area racun persisten di lantai | Segera keluar dari genangan hijau untuk menghindari DOT (damage seiring waktu) | Sedang |
+| **Brood Hatch** | Memanggil lima minion laba-laba kecil untuk mengalihkan perhatian dan mengurangi HP | Gunakan skill AOE King of Curses untuk membersihkannya secara instan | Sedang |
+| **Enraged Slam** | Hantaman fisik masif yang dipicu di bawah 30% HP | Lompat dan Dash menjauh dari bos saat lingkaran merah muncul | Kritikal |
+
+Mengelola posisi Anda selama fase Venom Puddle sangatlah penting. Jika Anda membiarkan bos menutupi bagian tengah arena dengan racun, Anda akan kehilangan zona aman Anda, sehingga hampir mustahil untuk menghindari Enraged Slam di akhir pertarungan.
+
+<Callout type="tip" title="Pemanfaatan I-Frame">
+Senjata Legendaris Umbrella sangat berharga dalam pertarungan ini karena kemampuan iframe-nya. Mengaktifkan skill pertahanannya tepat saat Web Spit akan mengenai Anda akan sepenuhnya membatalkan efek lambat (slow).
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Rekomendasi Build Karakter dan Set Perlengkapan">
+
+Mengoptimalkan build Anda sangat penting untuk mencapai waktu penyelesaian yang cepat. Setup Anda harus menggabungkan senjata berskala damage tinggi dengan perlengkapan utilitas yang dapat memulihkan karakter Anda atau membekukan bos di tempat. Di bawah ini adalah tiga build paling efektif untuk menghadapi bos ini, yang disesuaikan dengan gaya bermain dan tingkat anggaran yang berbeda.
+
+<CardGrid cols={3}>
+  <Card title="Build DPS Solo">
+    - **Senjata**: King of Curses (Evolved)
+    - **Perlengkapan**: Coyote Pistol
+    - **Trait**: Accuracy III (+15% DMG Skill)
+    - **Aksesori**: Agris Sword (+20% Crit)
+  </Card>
+  <Card title="Build Kontrol Tim">
+    - **Senjata**: Lawyer atau Priest
+    - **Perlengkapan**: Time Stop
+    - **Trait**: Accuracy III atau Power III
+    - **Aksesori**: Divine Wheel (x1.6 DMG Skill)
+  </Card>
+  <Card title="Build Starter Hemat">
+    - **Senjata**: One-Eyed Reaper atau Umbrella
+    - **Perlengkapan**: Heal
+    - **Trait**: Fortune (+15% Gold/EXP)
+    - **Aksesori**: Royal Cape (+50 HP)
+  </Card>
+</CardGrid>
+
+Build DPS Solo mengandalkan penumpukan damage skill yang masif. Dengan menggabungkan King of Curses dengan trait Accuracy III, Domain Expansion dan Fire Arrows Anda akan melelehkan bar HP bos. Perlengkapan Coyote Pistol memungkinkan Anda mempertahankan tekanan jarak jauh yang konsisten ketika terpaksa menjaga jarak karena genangan racun.
+
+<Callout type="success" title="Bonus Sinergi">
+Menggunakan kosmetik Agris Sword bersama dengan trait Critical Chance dapat mendorong total tingkat serangan kritis Anda melewati 25%, memungkinkan skill multi-hit Anda memicu burst damage yang menghancurkan secara konsisten.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Strategi Langkah demi Langkah untuk Mengalahkan Bos Laba-laba Anime Final Quest">
+
+Mengeksekusi pertarungan dengan benar membutuhkan kesabaran dan waktu yang tepat. Ikuti panduan progresi langkah demi langkah ini untuk menaklukkan **bos laba-laba anime final quest** secara sistematis tanpa menerima damage yang tidak perlu.
+
+<Steps>
+  <Step num="1" title="Pertempuran Awal dan Kontrol Minion">
+    Mulailah pertarungan dengan memancing Web Spit pertama dari bos. Segera lakukan Dash ke samping saat animasinya dimulai. Begitu proyektil meleset, bos akan memanggil gelombang minion laba-laba pertamanya. Jangan fokus pada bos dulu; gunakan skill AOE utama Anda untuk membersihkan minion secara instan guna mencegah mereka mengurangi HP Anda sedikit demi sedikit.
+  </Step>
+  <Step num="2" title="Kiting dan Manajemen Racun">
+    Saat bos mulai menyemburkan Venom Puddle, putari perimeter luar arena secara perlahan. Jaga agar bagian tengah ruangan tetap bersih. Gunakan serangan jarak jauh atau kombo M1 cepat, tetapi jangan pernah berkomitmen pada rangkaian serangan penuh kecuali Anda memiliki jalur melarikan diri (dash) yang jelas di belakang Anda.
+  </Step>
+  <Step num="3" title="Jendela Burst dan Aktivasi Perlengkapan">
+    Ketika bos menyelesaikan siklus serangannya, ia akan memasuki status pemulihan singkat. Ini adalah kesempatan Anda untuk mengaktifkan perlengkapan utilitas Anda. Jika menggunakan Time Stop, bekukan bos dan lepaskan skill ultimate Anda. Jika menggunakan build DPS Solo, aktifkan Agris Awakening Anda untuk lonjakan kekuatan sementara dan lepaskan rotasi damage tertinggi Anda.
+  </Step>
+  <Step num="4" title="Bertahan di Fase Enraged">
+    Setelah darah bos turun di bawah 30%, ia akan memasuki fase mengamuk (enraged), yang meningkatkan kecepatan serangannya dan menggunakan Enraged Slam. Prioritaskan kelangsungan hidup daripada damage. Jaga jarak Anda, gunakan Dash (Q) Anda untuk menghindari zona peringatan merah, dan andalkan skill jarak jauh atau kiting untuk menyelesaikan pertarungan dengan aman.
+  </Step>
+</Steps>
+
+<Callout type="info" title="Kesabaran Membawa Kemenangan">
+Selama fase enraged, pemain yang serakah sering kali terkena Web Spit yang langsung diikuti oleh Enraged Slam. Tetap tenang, tunggu hingga hantaman tersebut meleset, lalu serang balik.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Drop Eksklusif dan Hadiah Crafting">
+
+Mengalahkan bos laba-laba memberi pemain bahan crafting dan perlengkapan yang sangat dicari. Drop ini sangat penting untuk maju ke endgame sejati di Anime Final Quest, memungkinkan Anda membuat aksesori kuat dan mengevolusi senjata Anda yang ada.
+
+| Item Drop | Tingkat Drop (Hard) | Tingkat Drop (Nightmare) | Utilitas Crafting Utama |
+| :--- | :--- | :--- | :--- |
+| **Arachnid Silk** | 50% | 100% | Digunakan untuk membuat aksesori Venom Cape |
+| **Poison Gland** | 5% | 15% | Diperlukan untuk mengevolusi senjata berbasis racun |
+| **Spider Core** | 1% | 3.5% | Bahan langka yang digunakan di Crafting Station |
+| **Raid Chest** | 100% | 100% (x2) | Berisi Gold, Rune, dan Lucky Spin |
+
+Setelah mengamankan bahan yang cukup, pergilah ke Crafting Station di HUB. Anda dapat menggabungkan 1x Spider Core, 5x Poison Gland, dan 10x Arachnid Silk untuk membuat alternatif Strongest's Cape, memberikan peningkatan besar pada serangan fisik M1 Anda.
+
+<Checklist
+  id="spider-boss-goals"
+  title="Daftar Periksa Progresi Pasca-Pertarungan:"
+  items={[
+    "Kumpulkan setidaknya 10 Arachnid Silk untuk crafting dasar",
+    "Dapatkan Spider Core untuk membuka evolusi senjata tingkat lanjut",
+    "Tingkatkan senjata utama Anda menggunakan Rune yang dijatuhkan",
+    "Selesaikan misi dungeon harian untuk mendapatkan bonus Lucky Spin"
+  ]}
+/>
+
+<Callout type="tip" title="Event Drop Ganda">
+Simpan Tiket Raid Anda untuk event akhir pekan. Pengembang sering kali mengaktifkan tingkat drop ganda, membuat run Nightmare Anda dua kali lebih efisien untuk farming Spider Core yang langka.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Pertanyaan yang Sering Diajukan">
+
+<FAQ items={[
+  {
+    question: "Berapa level minimum untuk solo bos laba-laba anime final quest?",
+    answer: "Meskipun dungeon merekomendasikan Level 35 untuk mode Hard, untuk solo bos dengan nyaman memerlukan setidaknya Level 45, senjata Legendaris yang ditingkatkan sepenuhnya, dan perlengkapan utilitas penyembuhan seperti Heal atau perlengkapan damage tinggi seperti Coyote Pistol."
+  },
+  {
+    question: "Bagaimana cara menghilangkan efek lambat jaring jika saya terkena?",
+    answer: "Tidak ada mekanik pembersihan (cleanse) aktif di dalam game. Namun, Anda dapat mengurangi bahayanya dengan mengaktifkan skill iframe dari senjata Umbrella tepat sebelum jaring mengenai Anda, atau dengan menggunakan perlengkapan Time Stop untuk membekukan bos selagi Anda menunggu efek lambat tersebut hilang."
+  },
+  {
+    question: "Apakah kosmetik Agris Sword berfungsi melawan bos ini?",
+    answer: "Ya. Agris Sword sangat direkomendasikan karena bukan hanya sekadar visual; kosmetik ini memberikan peningkatan stat permanen sebesar +75 Health dan +20% Critical Chance, yang secara signifikan meningkatkan output damage Anda selama pertarungan."
+  },
+  {
+    question: "Di mana saya harus menggunakan Spider Core yang dijatuhkan oleh bos?",
+    answer: "Spider Core harus dibawa ke Crafting Station yang terletak di HUB utama dekat patung Agris. Bahan ini digunakan sebagai bahan inti untuk pembuatan aksesori tingkat tinggi dan resep evolusi senjata."
+  }
+]} />
+
+<Callout type="info" title="Pembaruan Komunitas">
+Untuk pembaruan terbaru, perubahan keseimbangan, dan rilis kode, pastikan untuk bergabung dengan Discord resmi Anime Final Quest Discord dan periksa papan Trello pengembang secara teratur.
+</Callout>
+
+</Section>

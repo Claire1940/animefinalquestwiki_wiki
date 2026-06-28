@@ -1,0 +1,177 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Boss Araignée d'Anime Final Quest : Meilleures Tactiques Solo et en Équipe",
+  description: "Battez le boss araignée d'Anime Final Quest grâce à ce guide. Apprenez les mécaniques du boss, les armes recommandées, les builds d'équipement et les butins exclusifs.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e1b4b/fff?text=Spider+Boss+Guide",
+  date: "2026-06-28",
+  author: "L'équipe du Wiki d'Anime Final Quest",
+  keywords: "anime final quest, boss araignée, guide, tactiques, builds, butins"
+}
+
+<Callout type="info" title="Guide Rapide">
+- **Cible principale** : Vaincre le **boss araignée d'anime final quest** nécessite une grande mobilité et d'importants dégâts de zone (AOE).
+- **Mécanique clé** : Évitez l'attaque Crachat de Toile (Web Spit), qui restreint vos mouvements et désactive votre capacité de Dash.
+- **Meilleure arme** : King of Curses (Évolué) offre le meilleur contrôle de foule et des dégâts de burst pour cette rencontre.
+- **Équipement critique** : Utilisez l'équipement Time Stop pour les parties en équipe, ou l'équipement Coyote Pistol pour les dégâts en solo.
+- **Meilleur accessoire** : Équiper le cosmétique Agris Sword ajoute un bonus massif de taux de coup critique pour écourter le combat.
+</Callout>
+
+<Section icon={Map} title="Emplacement du Donjon et Conditions d'Entrée">
+
+Pour défier le **boss araignée d'anime final quest**, les joueurs doivent se rendre au Donjon du Nid d'Arachnides (Arachnid Nest Dungeon), qui se débloque après avoir terminé les quêtes préliminaires de Fiji dans le hub principal. Cette rencontre constitue une étape majeure de progression, testant votre capacité à gérer à la fois des attaques puissantes sur cible unique et des essaims d'ennemis mineurs. Préparer votre personnage avec le bon niveau, les bonnes armes et les bons équipements est essentiel avant de dépenser vos précieux Tickets de Raid.
+
+Le donjon est accessible en trois difficultés distinctes, chacune augmentant les points de vie des ennemis, les dégâts infligés et la qualité des récompenses obtenues à la fin.
+
+| Difficulté | Niveau Recommandé | Récompenses Clés | Coût en Ticket |
+| :--- | :--- | :--- | :--- |
+| **Normal** | Niveau 15+ | Armes Rares, Or, Runes de Base | 1 Ticket de Raid |
+| **Difficile** | Niveau 35+ | Équipement Légendaire, Runes Rares, Matériaux d'Artisanat | 1 Ticket de Raid |
+| **Cauchemar** | Niveau 55+ | Matériaux d'Artisanat Mythiques, Runes de Haut Niveau | 2 Tickets de Raid |
+
+<Callout type="warning" title="Conservation des Tickets de Raid">
+Assurez-vous toujours que votre personnage atteint ou dépasse le niveau recommandé avant d'entrer en difficulté Cauchemar. Gaspiller des Tickets de Raid sur des tentatives échouées ralentira considérablement votre progression en fin de jeu.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Modèles d'Attaque et Mécaniques du Boss Araignée">
+
+Le combat contre le boss araignée est très dynamique, combinant des attaques de projectiles, des dangers au sol et des invocations de sbires. Comprendre ces mécaniques fait la différence entre une victoire propre et une défaite immédiate. Le boss utilise quatre capacités principales tout au long de la rencontre, dont la vitesse et l'agressivité augmentent à mesure que sa santé diminue.
+
+| Nom de l'Attaque | Description | Stratégie de Contre | Niveau de Danger |
+| :--- | :--- | :--- | :--- |
+| **Web Spit** | Tire trois projectiles de toile qui ralentissent les joueurs et désactivent le Dash | Utilisez la compétence iframe de l'arme Umbrella ou esquivez latéralement | Élevé |
+| **Venom Puddle** | Crache du venin qui crée des zones de poison persistantes au sol | Sortez immédiatement des flaques vertes pour éviter les dégâts sur la durée (DOT) | Moyen |
+| **Brood Hatch** | Invoque cinq petites araignées pour distraire et grignoter la santé | Utilisez les compétences AOE de King of Curses pour les éliminer instantanément | Moyen |
+| **Enraged Slam** | Une onde de choc physique massive déclenchée sous les 30% de santé | Sautez et dashez loin du boss lorsque le cercle rouge apparaît | Critique |
+
+La gestion de votre positionnement pendant la phase Venom Puddle est cruciale. Si vous laissez le boss couvrir le centre de l'arène de poison, vous perdrez vos zones de sécurité, ce qui rendra presque impossible l'esquive de l'Enraged Slam plus tard dans le combat.
+
+<Callout type="tip" title="Utilisation des I-Frames">
+L'arme légendaire Umbrella est très prisée dans ce combat en raison de ses capacités d'iframe. Activer ses compétences défensives juste au moment où le Web Spit est sur le point de vous toucher annulera complètement l'effet de ralentissement.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Builds de Personnages et Configurations d'Équipement Recommandés">
+
+Optimiser votre build est essentiel pour obtenir des temps de complétion rapides. Votre configuration doit combiner des armes à hauts dégâts avec des équipements utilitaires qui soignent votre personnage ou figent le boss sur place. Voici les trois builds les plus efficaces pour affronter ce boss, adaptés à différents styles de jeu et budgets.
+
+<CardGrid cols={3}>
+  <Card title="Build DPS Solo">
+    - **Arme** : King of Curses (Évolué)
+    - **Équipement** : Coyote Pistol
+    - **Trait** : Précision III (+15% Dégâts de Compétence)
+    - **Accessoire** : Agris Sword (+20% Crit)
+  </Card>
+  <Card title="Build Contrôle d'Équipe">
+    - **Arme** : Lawyer ou Priest
+    - **Équipement** : Time Stop
+    - **Trait** : Précision III ou Puissance III
+    - **Accessoire** : Divine Wheel (x1.6 Dégâts de Compétence)
+  </Card>
+  <Card title="Build de Départ Économique">
+    - **Arme** : One-Eyed Reaper ou Umbrella
+    - **Équipement** : Heal
+    - **Trait** : Fortune (+15% Or/EXP)
+    - **Accessoire** : Royal Cape (+50 PV)
+  </Card>
+</CardGrid>
+
+Le Build DPS Solo repose sur le cumul de dégâts de compétence massifs. En combinant King of Curses avec le trait Précision III, votre Domain Expansion et vos Fire Arrows feront fondre la barre de vie du boss. L'équipement Coyote Pistol vous permet de maintenir une pression à distance constante lorsque vous êtes forcé de rester éloigné à cause des flaques de poison.
+
+<Callout type="success" title="Bonus de Synergie">
+Utiliser le cosmétique Agris Sword avec un trait de Chance Critique peut faire grimper votre taux de coup critique total au-delà de 25%, permettant à vos compétences multi-coups de déclencher régulièrement des dégâts de burst dévastateurs.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Stratégie Étape par Étape pour Vaincre le Boss Araignée d'Anime Final Quest">
+
+Mener à bien le combat nécessite de la patience et un timing précis. Suivez ce guide de progression étape par étape pour démanteler systématiquement le **boss araignée d'anime final quest** sans subir de dégâts inutiles.
+
+<Steps>
+  <Step num="1" title="Engagement Initial et Contrôle des Larves">
+    Commencez le combat en provoquant le premier Web Spit du boss. Dashez latéralement immédiatement dès que l'animation commence. Une fois que le projectile a raté sa cible, le boss invoquera sa première vague de petites araignées. Ne vous concentrez pas encore sur le boss ; utilisez vos compétences AOE principales pour nettoyer les sbires instantanément afin de les empêcher de réduire votre santé.
+  </Step>
+  <Step num="2" title="Kiting et Gestion du Poison">
+    Lorsque le boss commence à cracher des Venom Puddles, tournez lentement autour du périmètre extérieur de l'arène. Gardez le centre de la pièce propre. Utilisez des attaques à distance ou des combos M1 rapides, mais ne vous engagez jamais dans une suite d'attaques complète à moins d'avoir une trajectoire de dash dégagée derrière vous.
+  </Step>
+  <Step num="3" title="Fenêtres de Burst et Activation de l'Équipement">
+    Quand le boss termine son cycle d'attaque, il entre dans un bref état de récupération. C'est votre fenêtre pour activer votre équipement utilitaire. Si vous utilisez Time Stop, gelez le boss et déchaînez vos compétences ultimes. Si vous utilisez le build DPS Solo, activez votre Agris Awakening pour un pic de puissance temporaire et lancez vos rotations les plus puissantes.
+  </Step>
+  <Step num="4" title="Survivre à la Phase Enragée">
+    Une fois que le boss tombe sous les 30% de santé, il entre dans un état enragé, augmentant sa vitesse d'attaque et utilisant l'Enraged Slam. Priorisez la survie aux dégâts. Gardez vos distances, utilisez votre Dash (Q) pour échapper aux zones d'alerte rouges, et comptez sur vos compétences à distance ou le kiting pour terminer la rencontre en toute sécurité.
+  </Step>
+</Steps>
+
+<Callout type="info" title="La Patience Gagne">
+Pendant la phase enragée, les joueurs trop gourmands se font souvent piéger par un Web Spit suivi immédiatement d'un Enraged Slam. Gardez votre sang-froid, attendez que l'écrasement rate, puis frappez.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Butins Exclusifs et Récompenses d'Artisanat">
+
+Vaincre le boss araignée récompense les joueurs avec des matériaux d'artisanat et de l'équipement très recherchés. Ces butins sont essentiels pour progresser vers le véritable endgame d'Anime Final Quest, vous permettant de fabriquer des accessoires puissants et de faire évoluer vos armes existantes.
+
+| Objet de Butin | Taux de Drop (Difficile) | Taux de Drop (Cauchemar) | Utilité d'Artisanat Principale |
+| :--- | :--- | :--- | :--- |
+| **Arachnid Silk** | 50% | 100% | Utilisé pour fabriquer l'accessoire Venom Cape |
+| **Poison Gland** | 5% | 15% | Requis pour faire évoluer les armes basées sur le poison |
+| **Spider Core** | 1% | 3,5% | Matériau rare utilisé à la Station d'Artisanat |
+| **Raid Chest** | 100% | 100% (x2) | Contient de l'Or, des Runes et des Lucky Spins |
+
+Après avoir récupéré suffisamment de matériaux, rendez-vous à la Station d'Artisanat dans le HUB. Vous pouvez combiner 1x Spider Core, 5x Poison Glands et 10x Arachnid Silk pour fabriquer l'alternative Strongest's Cape, offrant un boost majeur à vos attaques physiques M1.
+
+<Checklist
+  id="spider-boss-goals"
+  title="Liste de vérification de progression post-combat :"
+  items={[
+    "Collecter au moins 10 Arachnid Silks pour l'artisanat de base",
+    "Obtenir un Spider Core pour débloquer les évolutions d'armes avancées",
+    "Améliorer votre arme principale en utilisant les Runes obtenues",
+    "Terminer les quêtes quotidiennes de donjon pour des Lucky Spins bonus"
+  ]}
+/>
+
+<Callout type="tip" title="Événements Double Drop">
+Économisez vos Tickets de Raid pour les événements du week-end. Les développeurs activent fréquemment des taux de drop doublés, rendant vos sessions en Cauchemar deux fois plus efficaces pour farmer les rares Spider Cores.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "Quel est le niveau minimum pour faire le boss araignée d'anime final quest en solo ?",
+    answer: "Bien que le donjon recommande le niveau 35 pour le mode Difficile, faire le boss en solo confortablement nécessite au moins le niveau 45, une arme légendaire entièrement améliorée et un équipement utilitaire de soin comme Heal ou un équipement à hauts dégâts comme Coyote Pistol."
+  },
+  {
+    question: "Comment retirer l'effet de ralentissement de la toile si je suis touché ?",
+    answer: "Il n'y a pas de mécanique de purge active dans le jeu. Cependant, vous pouvez atténuer le danger en activant la compétence iframe de l'arme Umbrella juste avant que la toile ne vous touche, ou en utilisant l'équipement Time Stop pour geler le boss en attendant que l'effet disparaisse."
+  },
+  {
+    question: "Le cosmétique Agris Sword fonctionne-t-il contre ce boss ?",
+    answer: "Oui. L'Agris Sword est fortement recommandée car elle n'est pas seulement visuelle ; elle offre un boost de statistiques permanent de +75 de Santé et +20% de Chance Critique, ce qui augmente considérablement vos dégâts pendant le combat."
+  },
+  {
+    question: "Où dépenser les Spider Cores lâchés par le boss ?",
+    answer: "Les Spider Cores doivent être apportés à la Station d'Artisanat située dans le HUB principal près de la statue d'Agris. Ils servent d'ingrédient de base pour la fabrication d'accessoires de haut niveau et les recettes d'évolution d'armes."
+  }
+]} />
+
+<Callout type="info" title="Mises à jour de la Communauté">
+Pour les dernières mises à jour, les changements d'équilibrage et les sorties de codes, assurez-vous de rejoindre le Discord officiel d'Anime Final Quest et de consulter régulièrement le tableau Trello des développeurs.
+</Callout>
+
+</Section>

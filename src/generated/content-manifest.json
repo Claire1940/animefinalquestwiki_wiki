@@ -1,1 +1,698 @@
-{}
+{
+  "en": {
+    "bosses": [
+      {
+        "slug": "anime-final-quest-aizen-spawn",
+        "file": "anime-final-quest-aizen-spawn"
+      },
+      {
+        "slug": "anime-final-quest-boss-rush",
+        "file": "anime-final-quest-boss-rush"
+      },
+      {
+        "slug": "anime-final-quest-demon-boss",
+        "file": "anime-final-quest-demon-boss"
+      },
+      {
+        "slug": "anime-final-quest-doppelganger",
+        "file": "anime-final-quest-doppelganger"
+      },
+      {
+        "slug": "anime-final-quest-kaido-raid",
+        "file": "anime-final-quest-kaido-raid"
+      },
+      {
+        "slug": "anime-final-quest-mahito-boss",
+        "file": "anime-final-quest-mahito-boss"
+      },
+      {
+        "slug": "anime-final-quest-spider-boss",
+        "file": "anime-final-quest-spider-boss"
+      },
+      {
+        "slug": "anime-final-quest-station-domain-nightmare",
+        "file": "anime-final-quest-station-domain-nightmare"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "anime-final-quest-codes",
+        "file": "anime-final-quest-codes"
+      }
+    ],
+    "evolution": [
+      {
+        "slug": "anime-final-quest-attack-titan-awakening",
+        "file": "anime-final-quest-attack-titan-awakening"
+      },
+      {
+        "slug": "anime-final-quest-divine-general-evolution",
+        "file": "anime-final-quest-divine-general-evolution"
+      },
+      {
+        "slug": "anime-final-quest-gear-5",
+        "file": "anime-final-quest-gear-5"
+      },
+      {
+        "slug": "anime-final-quest-king-ripper-evo",
+        "file": "anime-final-quest-king-ripper-evo"
+      },
+      {
+        "slug": "anime-final-quest-luffy-gear-5-pity",
+        "file": "anime-final-quest-luffy-gear-5-pity"
+      },
+      {
+        "slug": "anime-final-quest-priest-evo",
+        "file": "anime-final-quest-priest-evo"
+      },
+      {
+        "slug": "anime-final-quest-quincy-evolution",
+        "file": "anime-final-quest-quincy-evolution"
+      },
+      {
+        "slug": "anime-final-quest-sung-jin-woo-quest",
+        "file": "anime-final-quest-sung-jin-woo-quest"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-final-quest-beginner-guide",
+        "file": "anime-final-quest-beginner-guide"
+      },
+      {
+        "slug": "anime-final-quest-best-xp-farm",
+        "file": "anime-final-quest-best-xp-farm"
+      },
+      {
+        "slug": "anime-final-quest-guide",
+        "file": "anime-final-quest-guide"
+      },
+      {
+        "slug": "anime-final-quest-how-to-get-world-2",
+        "file": "anime-final-quest-how-to-get-world-2"
+      },
+      {
+        "slug": "anime-final-quest-how-to-level-up-fast",
+        "file": "anime-final-quest-how-to-level-up-fast"
+      },
+      {
+        "slug": "anime-final-quest-how-to-play",
+        "file": "anime-final-quest-how-to-play"
+      },
+      {
+        "slug": "anime-final-quest-noob-to-pro",
+        "file": "anime-final-quest-noob-to-pro"
+      },
+      {
+        "slug": "anime-final-quest-progression-guide",
+        "file": "anime-final-quest-progression-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-final-quest-forge-tier-list",
+        "file": "anime-final-quest-forge-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-gear-tier-list",
+        "file": "anime-final-quest-gear-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-passive-tier-list",
+        "file": "anime-final-quest-passive-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-tier-list",
+        "file": "anime-final-quest-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-weapon-tier-list",
+        "file": "anime-final-quest-weapon-tier-list"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "anime-final-quest-best-weapon",
+        "file": "anime-final-quest-best-weapon"
+      },
+      {
+        "slug": "anime-final-quest-dark-saber",
+        "file": "anime-final-quest-dark-saber"
+      },
+      {
+        "slug": "anime-final-quest-ichigo-weapon",
+        "file": "anime-final-quest-ichigo-weapon"
+      },
+      {
+        "slug": "anime-final-quest-king-vessel-weapon",
+        "file": "anime-final-quest-king-vessel-weapon"
+      },
+      {
+        "slug": "anime-final-quest-lawyer-weapon",
+        "file": "anime-final-quest-lawyer-weapon"
+      },
+      {
+        "slug": "anime-final-quest-legendary-weapons",
+        "file": "anime-final-quest-legendary-weapons"
+      },
+      {
+        "slug": "anime-final-quest-saber",
+        "file": "anime-final-quest-saber"
+      },
+      {
+        "slug": "anime-final-quest-soul-reaper-weapon",
+        "file": "anime-final-quest-soul-reaper-weapon"
+      },
+      {
+        "slug": "anime-final-quest-vampire-gun",
+        "file": "anime-final-quest-vampire-gun"
+      },
+      {
+        "slug": "anime-final-quest-vergil",
+        "file": "anime-final-quest-vergil"
+      }
+    ]
+  },
+  "fr": {
+    "bosses": [
+      {
+        "slug": "anime-final-quest-aizen-spawn",
+        "file": "anime-final-quest-aizen-spawn"
+      },
+      {
+        "slug": "anime-final-quest-boss-rush",
+        "file": "anime-final-quest-boss-rush"
+      },
+      {
+        "slug": "anime-final-quest-demon-boss",
+        "file": "anime-final-quest-demon-boss"
+      },
+      {
+        "slug": "anime-final-quest-doppelganger",
+        "file": "anime-final-quest-doppelganger"
+      },
+      {
+        "slug": "anime-final-quest-kaido-raid",
+        "file": "anime-final-quest-kaido-raid"
+      },
+      {
+        "slug": "anime-final-quest-mahito-boss",
+        "file": "anime-final-quest-mahito-boss"
+      },
+      {
+        "slug": "anime-final-quest-spider-boss",
+        "file": "anime-final-quest-spider-boss"
+      },
+      {
+        "slug": "anime-final-quest-station-domain-nightmare",
+        "file": "anime-final-quest-station-domain-nightmare"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "anime-final-quest-codes",
+        "file": "anime-final-quest-codes"
+      }
+    ],
+    "evolution": [
+      {
+        "slug": "anime-final-quest-attack-titan-awakening",
+        "file": "anime-final-quest-attack-titan-awakening"
+      },
+      {
+        "slug": "anime-final-quest-divine-general-evolution",
+        "file": "anime-final-quest-divine-general-evolution"
+      },
+      {
+        "slug": "anime-final-quest-gear-5",
+        "file": "anime-final-quest-gear-5"
+      },
+      {
+        "slug": "anime-final-quest-king-ripper-evo",
+        "file": "anime-final-quest-king-ripper-evo"
+      },
+      {
+        "slug": "anime-final-quest-luffy-gear-5-pity",
+        "file": "anime-final-quest-luffy-gear-5-pity"
+      },
+      {
+        "slug": "anime-final-quest-priest-evo",
+        "file": "anime-final-quest-priest-evo"
+      },
+      {
+        "slug": "anime-final-quest-quincy-evolution",
+        "file": "anime-final-quest-quincy-evolution"
+      },
+      {
+        "slug": "anime-final-quest-sung-jin-woo-quest",
+        "file": "anime-final-quest-sung-jin-woo-quest"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-final-quest-beginner-guide",
+        "file": "anime-final-quest-beginner-guide"
+      },
+      {
+        "slug": "anime-final-quest-best-xp-farm",
+        "file": "anime-final-quest-best-xp-farm"
+      },
+      {
+        "slug": "anime-final-quest-guide",
+        "file": "anime-final-quest-guide"
+      },
+      {
+        "slug": "anime-final-quest-how-to-get-world-2",
+        "file": "anime-final-quest-how-to-get-world-2"
+      },
+      {
+        "slug": "anime-final-quest-how-to-level-up-fast",
+        "file": "anime-final-quest-how-to-level-up-fast"
+      },
+      {
+        "slug": "anime-final-quest-how-to-play",
+        "file": "anime-final-quest-how-to-play"
+      },
+      {
+        "slug": "anime-final-quest-noob-to-pro",
+        "file": "anime-final-quest-noob-to-pro"
+      },
+      {
+        "slug": "anime-final-quest-progression-guide",
+        "file": "anime-final-quest-progression-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-final-quest-forge-tier-list",
+        "file": "anime-final-quest-forge-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-gear-tier-list",
+        "file": "anime-final-quest-gear-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-passive-tier-list",
+        "file": "anime-final-quest-passive-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-tier-list",
+        "file": "anime-final-quest-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-weapon-tier-list",
+        "file": "anime-final-quest-weapon-tier-list"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "anime-final-quest-best-weapon",
+        "file": "anime-final-quest-best-weapon"
+      },
+      {
+        "slug": "anime-final-quest-dark-saber",
+        "file": "anime-final-quest-dark-saber"
+      },
+      {
+        "slug": "anime-final-quest-ichigo-weapon",
+        "file": "anime-final-quest-ichigo-weapon"
+      },
+      {
+        "slug": "anime-final-quest-king-vessel-weapon",
+        "file": "anime-final-quest-king-vessel-weapon"
+      },
+      {
+        "slug": "anime-final-quest-lawyer-weapon",
+        "file": "anime-final-quest-lawyer-weapon"
+      },
+      {
+        "slug": "anime-final-quest-legendary-weapons",
+        "file": "anime-final-quest-legendary-weapons"
+      },
+      {
+        "slug": "anime-final-quest-saber",
+        "file": "anime-final-quest-saber"
+      },
+      {
+        "slug": "anime-final-quest-soul-reaper-weapon",
+        "file": "anime-final-quest-soul-reaper-weapon"
+      },
+      {
+        "slug": "anime-final-quest-vampire-gun",
+        "file": "anime-final-quest-vampire-gun"
+      },
+      {
+        "slug": "anime-final-quest-vergil",
+        "file": "anime-final-quest-vergil"
+      }
+    ]
+  },
+  "id": {
+    "bosses": [
+      {
+        "slug": "anime-final-quest-aizen-spawn",
+        "file": "anime-final-quest-aizen-spawn"
+      },
+      {
+        "slug": "anime-final-quest-boss-rush",
+        "file": "anime-final-quest-boss-rush"
+      },
+      {
+        "slug": "anime-final-quest-demon-boss",
+        "file": "anime-final-quest-demon-boss"
+      },
+      {
+        "slug": "anime-final-quest-doppelganger",
+        "file": "anime-final-quest-doppelganger"
+      },
+      {
+        "slug": "anime-final-quest-kaido-raid",
+        "file": "anime-final-quest-kaido-raid"
+      },
+      {
+        "slug": "anime-final-quest-mahito-boss",
+        "file": "anime-final-quest-mahito-boss"
+      },
+      {
+        "slug": "anime-final-quest-spider-boss",
+        "file": "anime-final-quest-spider-boss"
+      },
+      {
+        "slug": "anime-final-quest-station-domain-nightmare",
+        "file": "anime-final-quest-station-domain-nightmare"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "anime-final-quest-codes",
+        "file": "anime-final-quest-codes"
+      }
+    ],
+    "evolution": [
+      {
+        "slug": "anime-final-quest-attack-titan-awakening",
+        "file": "anime-final-quest-attack-titan-awakening"
+      },
+      {
+        "slug": "anime-final-quest-divine-general-evolution",
+        "file": "anime-final-quest-divine-general-evolution"
+      },
+      {
+        "slug": "anime-final-quest-gear-5",
+        "file": "anime-final-quest-gear-5"
+      },
+      {
+        "slug": "anime-final-quest-king-ripper-evo",
+        "file": "anime-final-quest-king-ripper-evo"
+      },
+      {
+        "slug": "anime-final-quest-luffy-gear-5-pity",
+        "file": "anime-final-quest-luffy-gear-5-pity"
+      },
+      {
+        "slug": "anime-final-quest-priest-evo",
+        "file": "anime-final-quest-priest-evo"
+      },
+      {
+        "slug": "anime-final-quest-quincy-evolution",
+        "file": "anime-final-quest-quincy-evolution"
+      },
+      {
+        "slug": "anime-final-quest-sung-jin-woo-quest",
+        "file": "anime-final-quest-sung-jin-woo-quest"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-final-quest-beginner-guide",
+        "file": "anime-final-quest-beginner-guide"
+      },
+      {
+        "slug": "anime-final-quest-best-xp-farm",
+        "file": "anime-final-quest-best-xp-farm"
+      },
+      {
+        "slug": "anime-final-quest-guide",
+        "file": "anime-final-quest-guide"
+      },
+      {
+        "slug": "anime-final-quest-how-to-get-world-2",
+        "file": "anime-final-quest-how-to-get-world-2"
+      },
+      {
+        "slug": "anime-final-quest-how-to-level-up-fast",
+        "file": "anime-final-quest-how-to-level-up-fast"
+      },
+      {
+        "slug": "anime-final-quest-how-to-play",
+        "file": "anime-final-quest-how-to-play"
+      },
+      {
+        "slug": "anime-final-quest-noob-to-pro",
+        "file": "anime-final-quest-noob-to-pro"
+      },
+      {
+        "slug": "anime-final-quest-progression-guide",
+        "file": "anime-final-quest-progression-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-final-quest-forge-tier-list",
+        "file": "anime-final-quest-forge-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-gear-tier-list",
+        "file": "anime-final-quest-gear-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-passive-tier-list",
+        "file": "anime-final-quest-passive-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-tier-list",
+        "file": "anime-final-quest-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-weapon-tier-list",
+        "file": "anime-final-quest-weapon-tier-list"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "anime-final-quest-best-weapon",
+        "file": "anime-final-quest-best-weapon"
+      },
+      {
+        "slug": "anime-final-quest-dark-saber",
+        "file": "anime-final-quest-dark-saber"
+      },
+      {
+        "slug": "anime-final-quest-ichigo-weapon",
+        "file": "anime-final-quest-ichigo-weapon"
+      },
+      {
+        "slug": "anime-final-quest-king-vessel-weapon",
+        "file": "anime-final-quest-king-vessel-weapon"
+      },
+      {
+        "slug": "anime-final-quest-lawyer-weapon",
+        "file": "anime-final-quest-lawyer-weapon"
+      },
+      {
+        "slug": "anime-final-quest-legendary-weapons",
+        "file": "anime-final-quest-legendary-weapons"
+      },
+      {
+        "slug": "anime-final-quest-saber",
+        "file": "anime-final-quest-saber"
+      },
+      {
+        "slug": "anime-final-quest-soul-reaper-weapon",
+        "file": "anime-final-quest-soul-reaper-weapon"
+      },
+      {
+        "slug": "anime-final-quest-vampire-gun",
+        "file": "anime-final-quest-vampire-gun"
+      },
+      {
+        "slug": "anime-final-quest-vergil",
+        "file": "anime-final-quest-vergil"
+      }
+    ]
+  },
+  "pt": {
+    "bosses": [
+      {
+        "slug": "anime-final-quest-aizen-spawn",
+        "file": "anime-final-quest-aizen-spawn"
+      },
+      {
+        "slug": "anime-final-quest-boss-rush",
+        "file": "anime-final-quest-boss-rush"
+      },
+      {
+        "slug": "anime-final-quest-demon-boss",
+        "file": "anime-final-quest-demon-boss"
+      },
+      {
+        "slug": "anime-final-quest-doppelganger",
+        "file": "anime-final-quest-doppelganger"
+      },
+      {
+        "slug": "anime-final-quest-kaido-raid",
+        "file": "anime-final-quest-kaido-raid"
+      },
+      {
+        "slug": "anime-final-quest-mahito-boss",
+        "file": "anime-final-quest-mahito-boss"
+      },
+      {
+        "slug": "anime-final-quest-spider-boss",
+        "file": "anime-final-quest-spider-boss"
+      },
+      {
+        "slug": "anime-final-quest-station-domain-nightmare",
+        "file": "anime-final-quest-station-domain-nightmare"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "anime-final-quest-codes",
+        "file": "anime-final-quest-codes"
+      }
+    ],
+    "evolution": [
+      {
+        "slug": "anime-final-quest-attack-titan-awakening",
+        "file": "anime-final-quest-attack-titan-awakening"
+      },
+      {
+        "slug": "anime-final-quest-divine-general-evolution",
+        "file": "anime-final-quest-divine-general-evolution"
+      },
+      {
+        "slug": "anime-final-quest-gear-5",
+        "file": "anime-final-quest-gear-5"
+      },
+      {
+        "slug": "anime-final-quest-king-ripper-evo",
+        "file": "anime-final-quest-king-ripper-evo"
+      },
+      {
+        "slug": "anime-final-quest-luffy-gear-5-pity",
+        "file": "anime-final-quest-luffy-gear-5-pity"
+      },
+      {
+        "slug": "anime-final-quest-priest-evo",
+        "file": "anime-final-quest-priest-evo"
+      },
+      {
+        "slug": "anime-final-quest-quincy-evolution",
+        "file": "anime-final-quest-quincy-evolution"
+      },
+      {
+        "slug": "anime-final-quest-sung-jin-woo-quest",
+        "file": "anime-final-quest-sung-jin-woo-quest"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-final-quest-beginner-guide",
+        "file": "anime-final-quest-beginner-guide"
+      },
+      {
+        "slug": "anime-final-quest-best-xp-farm",
+        "file": "anime-final-quest-best-xp-farm"
+      },
+      {
+        "slug": "anime-final-quest-guide",
+        "file": "anime-final-quest-guide"
+      },
+      {
+        "slug": "anime-final-quest-how-to-get-world-2",
+        "file": "anime-final-quest-how-to-get-world-2"
+      },
+      {
+        "slug": "anime-final-quest-how-to-level-up-fast",
+        "file": "anime-final-quest-how-to-level-up-fast"
+      },
+      {
+        "slug": "anime-final-quest-how-to-play",
+        "file": "anime-final-quest-how-to-play"
+      },
+      {
+        "slug": "anime-final-quest-noob-to-pro",
+        "file": "anime-final-quest-noob-to-pro"
+      },
+      {
+        "slug": "anime-final-quest-progression-guide",
+        "file": "anime-final-quest-progression-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-final-quest-forge-tier-list",
+        "file": "anime-final-quest-forge-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-gear-tier-list",
+        "file": "anime-final-quest-gear-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-passive-tier-list",
+        "file": "anime-final-quest-passive-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-tier-list",
+        "file": "anime-final-quest-tier-list"
+      },
+      {
+        "slug": "anime-final-quest-weapon-tier-list",
+        "file": "anime-final-quest-weapon-tier-list"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "anime-final-quest-best-weapon",
+        "file": "anime-final-quest-best-weapon"
+      },
+      {
+        "slug": "anime-final-quest-dark-saber",
+        "file": "anime-final-quest-dark-saber"
+      },
+      {
+        "slug": "anime-final-quest-ichigo-weapon",
+        "file": "anime-final-quest-ichigo-weapon"
+      },
+      {
+        "slug": "anime-final-quest-king-vessel-weapon",
+        "file": "anime-final-quest-king-vessel-weapon"
+      },
+      {
+        "slug": "anime-final-quest-lawyer-weapon",
+        "file": "anime-final-quest-lawyer-weapon"
+      },
+      {
+        "slug": "anime-final-quest-legendary-weapons",
+        "file": "anime-final-quest-legendary-weapons"
+      },
+      {
+        "slug": "anime-final-quest-saber",
+        "file": "anime-final-quest-saber"
+      },
+      {
+        "slug": "anime-final-quest-soul-reaper-weapon",
+        "file": "anime-final-quest-soul-reaper-weapon"
+      },
+      {
+        "slug": "anime-final-quest-vampire-gun",
+        "file": "anime-final-quest-vampire-gun"
+      },
+      {
+        "slug": "anime-final-quest-vergil",
+        "file": "anime-final-quest-vergil"
+      }
+    ]
+  }
+}

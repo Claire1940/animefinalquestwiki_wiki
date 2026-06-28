@@ -10,7 +10,14 @@
       "twitterDescription": "Anime Final Quest Wiki with codes, weapon tier lists, gear picks, dungeon routes, bosses, runes, quests, controls, and beginner tips for Roblox players."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "tier-list": "Tier List",
+    "guide": "Guide",
+    "weapons": "Weapons",
+    "bosses": "Bosses",
+    "evolution": "Evolution"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -667,7 +674,10 @@
           "icon": "RefreshCw",
           "title": "Dungeon Core Loop",
           "summary": "Clear waves, beat the boss, collect loot, and use the rewards to improve weapons, gear, traits, and cosmetics.",
-          "tags": ["Core Loop", "Farming"],
+          "tags": [
+            "Core Loop",
+            "Farming"
+          ],
           "details": [
             "Fight through anime dungeons with M1 attacks, skills, gear, an ultimate skill, dash movement, and awakening tools.",
             "Obtain weapons and gear from progression systems, then use drops and runes to strengthen the build.",
@@ -678,7 +688,11 @@
           "icon": "Gauge",
           "title": "Difficulty Path",
           "summary": "Start on Normal, move into Hard after a stable weapon, and farm Nightmare when the build can clear safely.",
-          "tags": ["Normal", "Hard", "Nightmare"],
+          "tags": [
+            "Normal",
+            "Hard",
+            "Nightmare"
+          ],
           "details": [
             "Normal is for learning enemy patterns and collecting early materials.",
             "Hard is the bridge for stronger quest requirements, including Golem Boss clears.",
@@ -689,7 +703,10 @@
           "icon": "Skull",
           "title": "Boss Fight Pattern",
           "summary": "Treat bosses as movement checks, not just damage sponges.",
-          "tags": ["Bosses", "Movement"],
+          "tags": [
+            "Bosses",
+            "Movement"
+          ],
           "details": [
             "Use a few M1 attacks, then dash sideways to avoid retaliation.",
             "Save burst windows for Time Stop, Agris Awakening, or safe boss openings.",
@@ -700,7 +717,10 @@
           "icon": "Ticket",
           "title": "Raid Ticket Use",
           "summary": "Raid Tickets appear as progression rewards and code rewards, so they should be treated as limited resources.",
-          "tags": ["Raids", "Tickets"],
+          "tags": [
+            "Raids",
+            "Tickets"
+          ],
           "details": [
             "Build a stronger weapon and gear base before spending large ticket stacks.",
             "Use tickets when the account can already clear harder content without wasting attempts.",
@@ -711,7 +731,10 @@
           "icon": "Users",
           "title": "Team Clear Setup",
           "summary": "Team runs benefit from control, healing, and cooldown windows.",
-          "tags": ["Co-op", "Team"],
+          "tags": [
+            "Co-op",
+            "Team"
+          ],
           "details": [
             "Time Stop is the main team-control gear choice for holding waves in place.",
             "Heal supports longer boss fights and harder dungeons.",
@@ -722,7 +745,10 @@
           "icon": "ListChecks",
           "title": "Fast Clear Checklist",
           "summary": "Faster clearing comes from fewer wasted movements, better targeting, and a build that matches the dungeon.",
-          "tags": ["Speed", "Efficiency"],
+          "tags": [
+            "Speed",
+            "Efficiency"
+          ],
           "details": [
             "Group enemies before using AOE skills.",
             "Remove ranged enemies early so they do not chip away health during pulls.",
@@ -930,125 +956,125 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Anime Final Quest Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced crafting strategies. Master survival and crafting.",
-      "metaTitle": "Anime Final Quest Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Anime Final Quest guides covering beginner tips, crafting system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the crafting crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "codes": {
+      "title": "Anime Final Quest Codes",
+      "description": "Latest working Anime Final Quest codes for free Weapon Lucky Spins, Gear Lucky Spins, Gold, Runes, and Raid Tickets, plus the exact in-game redemption steps.",
+      "metaTitle": "Anime Final Quest Codes - Free Spins, Gold & Runes",
+      "metaDescription": "Claim active Anime Final Quest codes for free Weapon Lucky Spins, Gear Lucky Spins, Gold, Runes, and Raid Tickets. Updated with working codes and full redemption steps.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Anime Final Quest Codes?",
+      "whatIsDescription": "Anime Final Quest codes are free redeemable codes released by the developers that grant Weapon Lucky Spins, Gear Lucky Spins, Gold, Cash, Runes, and Raid Tickets. Most codes require you to join the official Roblox group before redeeming, and every code expires over time as new updates arrive.",
+      "why": "Why use Anime Final Quest codes?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the crafting system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Free Weapon and Gear Spins",
+        "step1Description": "Codes hand out Lucky Spins so you can roll stronger weapons and gear without spending your own resources.",
+        "step2Title": "Extra Gold and Runes",
+        "step2Description": "Redeem codes for Gold and Runes that speed up trait rerolls, build upgrades, and account progression.",
+        "step3Title": "Faster Early Progression",
+        "step3Description": "Stack code rewards with dungeon farming to clear early content and reach Hard and Nightmare modes sooner."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "tier-list": {
+      "title": "Anime Final Quest Tier List",
+      "description": "Compare the strongest Anime Final Quest weapons, gear, passives, and forge upgrades for dungeon clears, boss damage, and team utility.",
+      "metaTitle": "Anime Final Quest Tier List - Weapons, Gear & Passives",
+      "metaDescription": "Rank the best Anime Final Quest weapons, gear, passives, and forge upgrades. Find S-tier loadouts for dungeon clears, boss damage, and harder raids.",
+      "categoryLabel": "TIER LISTS",
+      "whatIs": "What is the Anime Final Quest Tier List?",
+      "whatIsDescription": "The Anime Final Quest tier list ranks weapons, gear, passives, and forge upgrades by their value in dungeon clears, boss fights, and team play. Higher tiers clear faster, scale better into the endgame, and pair well with strong traits and accessories.",
+      "why": "Why follow the Anime Final Quest tier list?",
+      "whySteps": {
+        "step1Title": "Roll the Right Weapons First",
+        "step1Description": "Focus spins on S-tier weapons that carry your damage through Normal, Hard, and Nightmare dungeons.",
+        "step2Title": "Pick Gear That Fits Your Role",
+        "step2Description": "Choose control, burst, or sustain gear based on whether you play solo or in a team.",
+        "step3Title": "Build Around Passives and Forge",
+        "step3Description": "Stack passives and forge upgrades that multiply skill damage, M1 damage, or survivability."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Tier Lists"
+    },
+    "guide": {
+      "title": "Anime Final Quest Guide",
+      "description": "Complete Anime Final Quest guides covering beginner setup, controls, leveling, progression paths, and dungeon farming for every stage of the game.",
+      "metaTitle": "Anime Final Quest Guide - Beginner, Progression & Leveling",
+      "metaDescription": "Master Anime Final Quest with beginner guides, controls, leveling routes, XP farming, World 2 unlocks, and full progression paths for Roblox players.",
+      "categoryLabel": "GAME GUIDES",
+      "whatIs": "What is the Anime Final Quest Guide?",
+      "whatIsDescription": "The Anime Final Quest guide collection walks you through the core loop: join the official group, redeem codes, learn controls, clear anime dungeons, roll weapons and gear, and progress from your first clear into harder content.",
+      "why": "Why read Anime Final Quest guides?",
+      "whySteps": {
+        "step1Title": "Start with the Right Setup",
+        "step1Description": "Join the official group, redeem codes, and learn the core controls before your first dungeon.",
+        "step2Title": "Level and Farm Efficiently",
+        "step2Description": "Follow proven XP routes and dungeon farming paths to level up fast and unlock World 2.",
+        "step3Title": "Plan Your Progression",
+        "step3Description": "Use step-by-step progression guides to move from noob to pro without wasting spins or runes."
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Anime Final Quest Crafting",
-      "description": "Master the crafting fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Anime Final Quest Crafting - crafting System & Recipes",
-      "metaDescription": "Master Anime Final Quest crafting crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The crafting system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "weapons": {
+      "title": "Anime Final Quest Weapons",
+      "description": "Detailed Anime Final Quest weapon guides covering skills, damage style, rarity, and how each weapon fits your dungeon and boss loadout.",
+      "metaTitle": "Anime Final Quest Weapons - Skills, Builds & Rankings",
+      "metaDescription": "Browse Anime Final Quest weapon guides for skills, damage styles, rarity, and build setups. Find the best weapons for dungeon clears, boss fights, and endgame loadouts.",
+      "categoryLabel": "WEAPONS",
+      "whatIs": "What are Anime Final Quest Weapons?",
+      "whatIsDescription": "Anime Final Quest weapons are the main source of damage in every loadout. Each weapon has its own M1 attacks, skills, an ultimate, and an awakening that define how it clears dungeons and fights bosses. Stronger weapons roll from Lucky Spins and evolve into more powerful forms.",
+      "why": "Why study Anime Final Quest weapons?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Match Weapons to Your Playstyle",
+        "step1Description": "Pick AOE weapons for wave clearing or burst weapons for boss damage based on how you play.",
+        "step2Title": "Know Each Weapon's Skills",
+        "step2Description": "Learn M1 chains, skill rotations, and awakening timing to maximize your damage output.",
+        "step3Title": "Plan Evolutions and Upgrades",
+        "step3Description": "Understand which weapons evolve and which are worth keeping, upgrading, or replacing."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Weapons"
     },
-    "items": {
-      "title": "Anime Final Quest Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Anime Final Quest Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Anime Final Quest including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "bosses": {
+      "title": "Anime Final Quest Bosses",
+      "description": "Anime Final Quest boss guides covering spawn locations, attack patterns, drops, and the best builds for every boss and raid encounter.",
+      "metaTitle": "Anime Final Quest Bosses - Locations, Patterns & Drops",
+      "metaDescription": "Defeat every Anime Final Quest boss with guides on spawn locations, attack patterns, drops, raid tactics, and the best builds for solo and team fights.",
+      "categoryLabel": "BOSSES",
+      "whatIs": "What are Anime Final Quest Bosses?",
+      "whatIsDescription": "Anime Final Quest bosses are the main combat challenges inside dungeons and raids. Each boss has unique spawn conditions, attack patterns, and drops, and harder encounters like Nightmare dungeons and raid bosses drop the rarest weapons, gear, and resources.",
+      "why": "Why learn Anime Final Quest boss fights?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using crafting",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Find Boss Spawn Locations",
+        "step1Description": "Learn where and when each boss spawns so you can plan efficient farming routes.",
+        "step2Title": "Read Attack Patterns",
+        "step2Description": "Dodge boss attacks, time your burst windows, and stay alive through long fights.",
+        "step3Title": "Target the Best Drops",
+        "step3Description": "Focus bosses that drop the weapons, gear, and materials your build actually needs."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Bosses"
     },
-    "biomes": {
-      "title": "Anime Final Quest Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Anime Final Quest Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Anime Final Quest biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "evolution": {
+      "title": "Anime Final Quest Evolution",
+      "description": "Anime Final Quest evolution and awakening guides covering unlock quests, spin rates, pity mechanics, and the strongest evolved weapons in the meta.",
+      "metaTitle": "Anime Final Quest Evolution - Awakenings & Evolved Weapons",
+      "metaDescription": "Unlock Anime Final Quest evolutions and awakenings with guides on quests, spin rates, pity mechanics, and the strongest evolved weapons for endgame loadouts.",
+      "categoryLabel": "EVOLUTIONS",
+      "whatIs": "What is Anime Final Quest Evolution?",
+      "whatIsDescription": "Anime Final Quest evolution upgrades a base weapon into a stronger evolved form with new skills, higher damage, and better scaling. Evolutions are unlocked through quests, spins, and pity mechanics, and evolved weapons often define the endgame meta.",
+      "why": "Why pursue Anime Final Quest evolutions?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Unlock Evolution Quests",
+        "step1Description": "Complete the quests and requirements that unlock each weapon's evolved form.",
+        "step2Title": "Understand Spin Rates and Pity",
+        "step2Description": "Learn the spin rates and pity mechanics so you know how many attempts an evolution takes.",
+        "step3Title": "Build Around Evolved Weapons",
+        "step3Description": "Pair evolved weapons with the right gear, traits, and accessories for maximum damage."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
-    },
-    "building": {
-      "title": "Anime Final Quest Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Anime Final Quest Building - Qualia & Base Construction",
-      "metaDescription": "Master Anime Final Quest building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Anime Final Quest Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Anime Final Quest Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Anime Final Quest including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Evolutions"
     }
   }
 }
